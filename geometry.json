@@ -1,0 +1,52 @@
+{
+  "units": "metres",
+  "main_length": 1.15,
+  "main_width": 0.24,
+  "main_height": 0.18,
+  "mid_width": 0.2,
+  "mid_height": 0.145,
+  "tip_width": 0.16,
+  "tip_height": 0.11,
+  "extend_z": 0.0,
+  "mid_length": 1.02,
+  "tip_length": 0.94,
+  "mid_base": 0.08,
+  "tip_base": 0.08,
+  "stage_travel": 0.48,
+  "tip_drop": 0,
+  "cross_half_width": 1.02,
+  "shoulder_x": 0.65,
+  "elbow_x": -0.12,
+  "elbow_y": -0.5,
+  "arm_open_angle": 25.0,
+  "arm_fold_angle": -60.0,
+  "finger_length": 0.62,
+  "head_pin_y": 0.18,
+  "lift_min": -4.0,
+  "lift_max": 20.0,
+  "barrel_length": 0.55,
+  "rod_length": 0.55,
+  "extend_barrel_length": 0.7,
+  "extend_rod_length": 0.7,
+  "extend_base_y": 0.12,
+  "extend_eye_y": -0.6,
+  "arm_barrel_length": 0.32,
+  "arm_rod_length": 0.3,
+  "lift_base": [
+    0.25,
+    1,
+    0.2
+  ],
+  "lift_eye": [
+    0.25,
+    0,
+    0
+  ],
+  "capture": [
+    0.0,
+    -0.28,
+    0.2
+  ],
+  "lift_low": -0.14,
+  "lift_travel": 0.56
+}

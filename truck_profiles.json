@@ -1,0 +1,4193 @@
+{
+  "jeepwannabe": {
+    "mount": {
+      "x": 0.0,
+      "y": -1.60665,
+      "z": -0.54161
+    },
+    "minLift": 0,
+    "maxLift": 1,
+    "loadedMaxLift": 0.934065,
+    "stowLift": 0.8,
+    "liftTravel": 0.642354,
+    "releaseLift": 0.02,
+    "calibrated": true,
+    "fitted": true,
+    "pump": {
+      "x": 0.0,
+      "y": -0.65,
+      "z": 1.17
+    },
+    "interactDistance": 6,
+    "maxTargetDistance": 9
+  },
+  "jeepwannabebubba": {
+    "mount": {
+      "x": 0.0,
+      "y": -1.6058,
+      "z": -0.51481
+    },
+    "minLift": 0,
+    "maxLift": 1,
+    "loadedMaxLift": 0.918875,
+    "stowLift": 0.8,
+    "liftTravel": 0.652972,
+    "releaseLift": 0.02,
+    "calibrated": true,
+    "fitted": true,
+    "pump": {
+      "x": 0.0,
+      "y": -0.65,
+      "z": 1.17
+    },
+    "interactDistance": 6,
+    "maxTargetDistance": 9
+  },
+  "jeepwannabev2": {
+    "mount": {
+      "x": 0.0,
+      "y": -1.60663,
+      "z": -0.54161
+    },
+    "minLift": 0,
+    "maxLift": 1,
+    "loadedMaxLift": 0.885557,
+    "stowLift": 0.8,
+    "liftTravel": 0.677539,
+    "releaseLift": 0.02,
+    "calibrated": true,
+    "fitted": true,
+    "pump": {
+      "x": 0.0,
+      "y": -0.65,
+      "z": 1.17
+    },
+    "interactDistance": 6,
+    "maxTargetDistance": 9
+  },
+  "nathan11dmax": {
+    "mount": {
+      "x": 0.0,
+      "y": -1.9668,
+      "z": -0.22748
+    },
+    "minLift": 0,
+    "maxLift": 1,
+    "loadedMaxLift": 0.753741,
+    "stowLift": 0.8,
+    "liftTravel": 0.796029,
+    "releaseLift": 0.02,
+    "calibrated": true,
+    "fitted": true,
+    "pump": {
+      "x": 0.0,
+      "y": -0.65,
+      "z": 1.17
+    },
+    "liftBarrelLength": 0.98,
+    "liftRodLength": 0.98,
+    "parts": {
+      "lift_barrel": "zs_lift_barrel_long",
+      "lift_rod": "zs_lift_rod_long"
+    },
+    "interactDistance": 6,
+    "maxTargetDistance": 9
+  },
+  "nathan13duramax": {
+    "mount": {
+      "x": 0.0,
+      "y": -2.04937,
+      "z": -0.24143
+    },
+    "minLift": 0,
+    "maxLift": 1,
+    "loadedMaxLift": 1.0,
+    "stowLift": 0.556312,
+    "liftTravel": 0.6,
+    "releaseLift": 0.02,
+    "calibrated": true,
+    "fitted": true,
+    "pump": {
+      "x": 0.0,
+      "y": -0.65,
+      "z": 1.17
+    },
+    "interactDistance": 6.049,
+    "maxTargetDistance": 9.049
+  },
+  "nathan16hc": {
+    "mount": {
+      "x": 0.0,
+      "y": -1.52226,
+      "z": -0.89762
+    },
+    "minLift": 0,
+    "maxLift": 1,
+    "loadedMaxLift": 1.0,
+    "stowLift": 0.662611,
+    "liftTravel": 0.6,
+    "releaseLift": 0.02,
+    "calibrated": true,
+    "fitted": true,
+    "pump": {
+      "x": 0.0,
+      "y": -0.65,
+      "z": 1.17
+    },
+    "interactDistance": 6,
+    "maxTargetDistance": 9
+  },
+  "nathan16hcbub": {
+    "mount": {
+      "x": 0.0,
+      "y": -2.37852,
+      "z": -0.85567
+    },
+    "minLift": 0,
+    "maxLift": 1,
+    "loadedMaxLift": 0.544928,
+    "stowLift": 0.8,
+    "liftTravel": 1.101064,
+    "releaseLift": 0.02,
+    "calibrated": true,
+    "fitted": true,
+    "pump": {
+      "x": 0.0,
+      "y": -0.65,
+      "z": 1.17
+    },
+    "liftBarrelLength": 0.98,
+    "liftRodLength": 0.98,
+    "parts": {
+      "lift_barrel": "zs_lift_barrel_long",
+      "lift_rod": "zs_lift_rod_long"
+    },
+    "interactDistance": 6.379,
+    "maxTargetDistance": 9.379
+  },
+  "nathan17bub": {
+    "mount": {
+      "x": 0.0,
+      "y": -2.75246,
+      "z": -0.82683
+    },
+    "minLift": 0,
+    "maxLift": 1,
+    "loadedMaxLift": 0.531603,
+    "stowLift": 0.8,
+    "liftTravel": 1.128662,
+    "releaseLift": 0.02,
+    "calibrated": true,
+    "fitted": true,
+    "pump": {
+      "x": 0.0,
+      "y": -0.65,
+      "z": 1.17
+    },
+    "liftBarrelLength": 0.98,
+    "liftRodLength": 0.98,
+    "parts": {
+      "lift_barrel": "zs_lift_barrel_long",
+      "lift_rod": "zs_lift_rod_long"
+    },
+    "interactDistance": 6.752,
+    "maxTargetDistance": 9.752
+  },
+  "nathan17kr": {
+    "mount": {
+      "x": 0.0,
+      "y": -2.36771,
+      "z": -0.80268
+    },
+    "minLift": 0,
+    "maxLift": 1,
+    "loadedMaxLift": 0.691267,
+    "stowLift": 0.8,
+    "liftTravel": 0.867972,
+    "releaseLift": 0.02,
+    "calibrated": true,
+    "fitted": true,
+    "pump": {
+      "x": 0.0,
+      "y": -0.65,
+      "z": 1.17
+    },
+    "liftBarrelLength": 0.98,
+    "liftRodLength": 0.98,
+    "parts": {
+      "lift_barrel": "zs_lift_barrel_long",
+      "lift_rod": "zs_lift_rod_long"
+    },
+    "interactDistance": 6.368,
+    "maxTargetDistance": 9.368
+  },
+  "nathan18bub": {
+    "mount": {
+      "x": 0.0,
+      "y": -2.03734,
+      "z": -0.41462
+    },
+    "minLift": 0,
+    "maxLift": 1,
+    "loadedMaxLift": 0.692181,
+    "stowLift": 0.8,
+    "liftTravel": 0.866826,
+    "releaseLift": 0.02,
+    "calibrated": true,
+    "fitted": true,
+    "pump": {
+      "x": 0.0,
+      "y": -0.65,
+      "z": 1.17
+    },
+    "liftBarrelLength": 0.98,
+    "liftRodLength": 0.98,
+    "parts": {
+      "lift_barrel": "zs_lift_barrel_long",
+      "lift_rod": "zs_lift_rod_long"
+    },
+    "interactDistance": 6.037,
+    "maxTargetDistance": 9.037
+  },
+  "nathan18l5p": {
+    "mount": {
+      "x": 0.0,
+      "y": -2.03798,
+      "z": -0.2388
+    },
+    "minLift": 0,
+    "maxLift": 1,
+    "loadedMaxLift": 1.0,
+    "stowLift": 0.360818,
+    "liftTravel": 0.6,
+    "releaseLift": 0.02,
+    "calibrated": true,
+    "fitted": true,
+    "pump": {
+      "x": 0.0,
+      "y": -0.65,
+      "z": 1.17
+    },
+    "interactDistance": 6.038,
+    "maxTargetDistance": 9.038
+  },
+  "nathan18nali": {
+    "mount": {
+      "x": 0.0,
+      "y": -2.13877,
+      "z": -0.38351
+    },
+    "minLift": 0,
+    "maxLift": 1,
+    "loadedMaxLift": 0.729218,
+    "stowLift": 0.8,
+    "liftTravel": 0.822799,
+    "releaseLift": 0.02,
+    "calibrated": true,
+    "fitted": true,
+    "pump": {
+      "x": 0.0,
+      "y": -0.65,
+      "z": 1.17
+    },
+    "liftBarrelLength": 0.98,
+    "liftRodLength": 0.98,
+    "parts": {
+      "lift_barrel": "zs_lift_barrel_long",
+      "lift_rod": "zs_lift_rod_long"
+    },
+    "interactDistance": 6.139,
+    "maxTargetDistance": 9.139
+  },
+  "nathan1of1": {
+    "mount": {
+      "x": 0.0,
+      "y": -2.37133,
+      "z": -0.69218
+    },
+    "minLift": 0,
+    "maxLift": 1,
+    "loadedMaxLift": 0.571351,
+    "stowLift": 0.8,
+    "liftTravel": 1.050142,
+    "releaseLift": 0.02,
+    "calibrated": true,
+    "fitted": true,
+    "pump": {
+      "x": 0.0,
+      "y": -0.65,
+      "z": 1.17
+    },
+    "liftBarrelLength": 0.98,
+    "liftRodLength": 0.98,
+    "parts": {
+      "lift_barrel": "zs_lift_barrel_long",
+      "lift_rod": "zs_lift_rod_long"
+    },
+    "interactDistance": 6.371,
+    "maxTargetDistance": 9.371
+  },
+  "nathan1stg": {
+    "mount": {
+      "x": 0.0,
+      "y": -1.73468,
+      "z": -0.66704
+    },
+    "minLift": 0,
+    "maxLift": 1,
+    "loadedMaxLift": 0.492764,
+    "stowLift": 0.8,
+    "liftTravel": 1.217621,
+    "releaseLift": 0.02,
+    "calibrated": true,
+    "fitted": true,
+    "pump": {
+      "x": 0.0,
+      "y": -0.65,
+      "z": 1.17
+    },
+    "liftBarrelLength": 0.98,
+    "liftRodLength": 0.98,
+    "parts": {
+      "lift_barrel": "zs_lift_barrel_long",
+      "lift_rod": "zs_lift_rod_long"
+    },
+    "interactDistance": 6,
+    "maxTargetDistance": 9
+  },
+  "nathan22hc": {
+    "mount": {
+      "x": 0.0,
+      "y": -2.44362,
+      "z": -0.71904
+    },
+    "minLift": 0,
+    "maxLift": 1,
+    "loadedMaxLift": 1.0,
+    "stowLift": 0.786144,
+    "liftTravel": 0.6,
+    "releaseLift": 0.02,
+    "calibrated": true,
+    "fitted": true,
+    "pump": {
+      "x": 0.0,
+      "y": -0.65,
+      "z": 1.17
+    },
+    "interactDistance": 6.444,
+    "maxTargetDistance": 9.444
+  },
+  "nathan22nali": {
+    "mount": {
+      "x": 0.0,
+      "y": -2.12727,
+      "z": -0.86265
+    },
+    "minLift": 0,
+    "maxLift": 1,
+    "loadedMaxLift": 1.0,
+    "stowLift": 0.480767,
+    "liftTravel": 0.6,
+    "releaseLift": 0.02,
+    "calibrated": true,
+    "fitted": true,
+    "pump": {
+      "x": 0.0,
+      "y": -0.65,
+      "z": 1.17
+    },
+    "interactDistance": 6.127,
+    "maxTargetDistance": 9.127
+  },
+  "nathan22plat": {
+    "mount": {
+      "x": 0.0,
+      "y": -2.05684,
+      "z": -0.65844
+    },
+    "minLift": 0,
+    "maxLift": 1,
+    "loadedMaxLift": 0.675747,
+    "stowLift": 0.8,
+    "liftTravel": 0.887906,
+    "releaseLift": 0.02,
+    "calibrated": true,
+    "fitted": true,
+    "pump": {
+      "x": 0.0,
+      "y": -0.65,
+      "z": 1.17
+    },
+    "liftBarrelLength": 0.98,
+    "liftRodLength": 0.98,
+    "parts": {
+      "lift_barrel": "zs_lift_barrel_long",
+      "lift_rod": "zs_lift_rod_long"
+    },
+    "interactDistance": 6.057,
+    "maxTargetDistance": 9.057
+  },
+  "nathan23plat": {
+    "mount": {
+      "x": 0.0,
+      "y": -2.19768,
+      "z": -0.77123
+    },
+    "minLift": 0,
+    "maxLift": 1,
+    "loadedMaxLift": 0.518254,
+    "stowLift": 0.8,
+    "liftTravel": 1.157733,
+    "releaseLift": 0.02,
+    "calibrated": true,
+    "fitted": true,
+    "pump": {
+      "x": 0.0,
+      "y": -0.65,
+      "z": 1.17
+    },
+    "liftBarrelLength": 0.98,
+    "liftRodLength": 0.98,
+    "parts": {
+      "lift_barrel": "zs_lift_barrel_long",
+      "lift_rod": "zs_lift_rod_long"
+    },
+    "interactDistance": 6.198,
+    "maxTargetDistance": 9.198
+  },
+  "nathan24dual": {
+    "mount": {
+      "x": 0.0,
+      "y": -2.76572,
+      "z": -0.6183
+    },
+    "minLift": 0,
+    "maxLift": 1,
+    "loadedMaxLift": 0.45134,
+    "stowLift": 0.8,
+    "liftTravel": 1.329375,
+    "releaseLift": 0.02,
+    "calibrated": true,
+    "fitted": true,
+    "pump": {
+      "x": 0.0,
+      "y": -0.65,
+      "z": 1.17
+    },
+    "liftBarrelLength": 0.98,
+    "liftRodLength": 0.98,
+    "parts": {
+      "lift_barrel": "zs_lift_barrel_long",
+      "lift_rod": "zs_lift_rod_long"
+    },
+    "interactDistance": 6.766,
+    "maxTargetDistance": 9.766
+  },
+  "nathan24hc": {
+    "mount": {
+      "x": 0.0,
+      "y": -2.35824,
+      "z": -0.78702
+    },
+    "minLift": 0,
+    "maxLift": 1,
+    "loadedMaxLift": 0.675866,
+    "stowLift": 0.8,
+    "liftTravel": 0.88775,
+    "releaseLift": 0.02,
+    "calibrated": true,
+    "fitted": true,
+    "pump": {
+      "x": 0.0,
+      "y": -0.65,
+      "z": 1.17
+    },
+    "liftBarrelLength": 0.98,
+    "liftRodLength": 0.98,
+    "parts": {
+      "lift_barrel": "zs_lift_barrel_long",
+      "lift_rod": "zs_lift_rod_long"
+    },
+    "interactDistance": 6.358,
+    "maxTargetDistance": 9.358
+  },
+  "nathan24hcbub": {
+    "mount": {
+      "x": 0.0,
+      "y": -2.07077,
+      "z": -0.76822
+    },
+    "minLift": 0,
+    "maxLift": 1,
+    "loadedMaxLift": 0.480221,
+    "stowLift": 0.8,
+    "liftTravel": 1.249426,
+    "releaseLift": 0.02,
+    "calibrated": true,
+    "fitted": true,
+    "pump": {
+      "x": 0.0,
+      "y": -0.65,
+      "z": 1.17
+    },
+    "liftBarrelLength": 0.98,
+    "liftRodLength": 0.98,
+    "parts": {
+      "lift_barrel": "zs_lift_barrel_long",
+      "lift_rod": "zs_lift_rod_long"
+    },
+    "interactDistance": 6.071,
+    "maxTargetDistance": 9.071
+  },
+  "nathan24nali": {
+    "mount": {
+      "x": 0.0,
+      "y": -2.66555,
+      "z": -0.58115
+    },
+    "minLift": 0,
+    "maxLift": 1,
+    "loadedMaxLift": 0.363115,
+    "stowLift": 0.8,
+    "liftTravel": 1.652369,
+    "releaseLift": 0.02,
+    "calibrated": true,
+    "fitted": true,
+    "pump": {
+      "x": 0.0,
+      "y": -0.65,
+      "z": 1.17
+    },
+    "liftBarrelLength": 0.98,
+    "liftRodLength": 0.98,
+    "parts": {
+      "lift_barrel": "zs_lift_barrel_long",
+      "lift_rod": "zs_lift_rod_long"
+    },
+    "interactDistance": 6.666,
+    "maxTargetDistance": 9.666
+  },
+  "nathan359": {
+    "mount": {
+      "x": 0.0,
+      "y": -4.66584,
+      "z": -0.94663
+    },
+    "minLift": 0,
+    "maxLift": 1,
+    "loadedMaxLift": 1.0,
+    "stowLift": 0.35,
+    "liftTravel": 0.6,
+    "releaseLift": 0.02,
+    "calibrated": true,
+    "fitted": true,
+    "pump": {
+      "x": 0.0,
+      "y": -0.65,
+      "z": 1.17
+    },
+    "interactDistance": 8.666,
+    "maxTargetDistance": 11.666
+  },
+  "nathan379": {
+    "mount": {
+      "x": 0.0,
+      "y": -4.09327,
+      "z": -0.79626
+    },
+    "minLift": 0,
+    "maxLift": 1,
+    "loadedMaxLift": 1.0,
+    "stowLift": 0.35,
+    "liftTravel": 0.6,
+    "releaseLift": 0.02,
+    "calibrated": true,
+    "fitted": true,
+    "pump": {
+      "x": 0.0,
+      "y": -0.65,
+      "z": 1.17
+    },
+    "interactDistance": 8.093,
+    "maxTargetDistance": 11.093
+  },
+  "nathan3g": {
+    "mount": {
+      "x": 0.0,
+      "y": -2.1472,
+      "z": -0.44841
+    },
+    "minLift": 0,
+    "maxLift": 1,
+    "loadedMaxLift": 0.615944,
+    "stowLift": 0.8,
+    "liftTravel": 0.974114,
+    "releaseLift": 0.02,
+    "calibrated": true,
+    "fitted": true,
+    "pump": {
+      "x": 0.0,
+      "y": -0.65,
+      "z": 1.17
+    },
+    "liftBarrelLength": 0.98,
+    "liftRodLength": 0.98,
+    "parts": {
+      "lift_barrel": "zs_lift_barrel_long",
+      "lift_rod": "zs_lift_rod_long"
+    },
+    "interactDistance": 6.147,
+    "maxTargetDistance": 9.147
+  },
+  "nathan3gbub": {
+    "mount": {
+      "x": 0.0,
+      "y": -2.09143,
+      "z": -0.53446
+    },
+    "minLift": 0,
+    "maxLift": 1,
+    "loadedMaxLift": 0.639534,
+    "stowLift": 0.8,
+    "liftTravel": 0.938184,
+    "releaseLift": 0.02,
+    "calibrated": true,
+    "fitted": true,
+    "pump": {
+      "x": 0.0,
+      "y": -0.65,
+      "z": 1.17
+    },
+    "liftBarrelLength": 0.98,
+    "liftRodLength": 0.98,
+    "parts": {
+      "lift_barrel": "zs_lift_barrel_long",
+      "lift_rod": "zs_lift_rod_long"
+    },
+    "interactDistance": 6.091,
+    "maxTargetDistance": 9.091
+  },
+  "nathan4g2": {
+    "mount": {
+      "x": 0.0,
+      "y": -1.9516,
+      "z": -0.48206
+    },
+    "minLift": 0,
+    "maxLift": 1,
+    "loadedMaxLift": 0.590916,
+    "stowLift": 0.8,
+    "liftTravel": 1.015373,
+    "releaseLift": 0.02,
+    "calibrated": true,
+    "fitted": true,
+    "pump": {
+      "x": 0.0,
+      "y": -0.65,
+      "z": 1.17
+    },
+    "liftBarrelLength": 0.98,
+    "liftRodLength": 0.98,
+    "parts": {
+      "lift_barrel": "zs_lift_barrel_long",
+      "lift_rod": "zs_lift_rod_long"
+    },
+    "interactDistance": 6,
+    "maxTargetDistance": 9
+  },
+  "nathan4g": {
+    "mount": {
+      "x": 0.0,
+      "y": -1.951,
+      "z": -0.44842
+    },
+    "minLift": 0,
+    "maxLift": 1,
+    "loadedMaxLift": 0.619496,
+    "stowLift": 0.8,
+    "liftTravel": 0.96853,
+    "releaseLift": 0.02,
+    "calibrated": true,
+    "fitted": true,
+    "pump": {
+      "x": 0.0,
+      "y": -0.65,
+      "z": 1.17
+    },
+    "liftBarrelLength": 0.98,
+    "liftRodLength": 0.98,
+    "parts": {
+      "lift_barrel": "zs_lift_barrel_long",
+      "lift_rod": "zs_lift_rod_long"
+    },
+    "interactDistance": 6,
+    "maxTargetDistance": 9
+  },
+  "nathan4gbub": {
+    "mount": {
+      "x": 0.0,
+      "y": -1.85941,
+      "z": -0.42393
+    },
+    "minLift": 0,
+    "maxLift": 1,
+    "loadedMaxLift": 0.528103,
+    "stowLift": 0.8,
+    "liftTravel": 1.136143,
+    "releaseLift": 0.02,
+    "calibrated": true,
+    "fitted": true,
+    "pump": {
+      "x": 0.0,
+      "y": -0.65,
+      "z": 1.17
+    },
+    "liftBarrelLength": 0.98,
+    "liftRodLength": 0.98,
+    "parts": {
+      "lift_barrel": "zs_lift_barrel_long",
+      "lift_rod": "zs_lift_rod_long"
+    },
+    "interactDistance": 6,
+    "maxTargetDistance": 9
+  },
+  "nathan4gdual": {
+    "mount": {
+      "x": 0.0,
+      "y": -2.24627,
+      "z": -0.40962
+    },
+    "minLift": 0,
+    "maxLift": 1,
+    "loadedMaxLift": 0.450215,
+    "stowLift": 0.8,
+    "liftTravel": 1.332695,
+    "releaseLift": 0.02,
+    "calibrated": true,
+    "fitted": true,
+    "pump": {
+      "x": 0.0,
+      "y": -0.65,
+      "z": 1.17
+    },
+    "liftBarrelLength": 0.98,
+    "liftRodLength": 0.98,
+    "parts": {
+      "lift_barrel": "zs_lift_barrel_long",
+      "lift_rod": "zs_lift_rod_long"
+    },
+    "interactDistance": 6.246,
+    "maxTargetDistance": 9.246
+  },
+  "nathan4gmod": {
+    "mount": {
+      "x": 0.0,
+      "y": -1.98718,
+      "z": -0.33216
+    },
+    "minLift": 0,
+    "maxLift": 1,
+    "loadedMaxLift": 0.553246,
+    "stowLift": 0.8,
+    "liftTravel": 1.084508,
+    "releaseLift": 0.02,
+    "calibrated": true,
+    "fitted": true,
+    "pump": {
+      "x": 0.0,
+      "y": -0.65,
+      "z": 1.17
+    },
+    "liftBarrelLength": 0.98,
+    "liftRodLength": 0.98,
+    "parts": {
+      "lift_barrel": "zs_lift_barrel_long",
+      "lift_rod": "zs_lift_rod_long"
+    },
+    "interactDistance": 6,
+    "maxTargetDistance": 9
+  },
+  "nathan4gplow": {
+    "mount": {
+      "x": 0.0,
+      "y": -1.86889,
+      "z": -0.45403
+    },
+    "minLift": 0,
+    "maxLift": 1,
+    "loadedMaxLift": 0.490634,
+    "stowLift": 0.8,
+    "liftTravel": 1.222907,
+    "releaseLift": 0.02,
+    "calibrated": true,
+    "fitted": true,
+    "pump": {
+      "x": 0.0,
+      "y": -0.65,
+      "z": 1.17
+    },
+    "liftBarrelLength": 0.98,
+    "liftRodLength": 0.98,
+    "parts": {
+      "lift_barrel": "zs_lift_barrel_long",
+      "lift_rod": "zs_lift_rod_long"
+    },
+    "interactDistance": 6,
+    "maxTargetDistance": 9
+  },
+  "nathan4gtow": {
+    "mount": {
+      "x": 0.0,
+      "y": -4.22942,
+      "z": -0.53013
+    },
+    "minLift": 0,
+    "maxLift": 1,
+    "loadedMaxLift": 0.611787,
+    "stowLift": 0.8,
+    "liftTravel": 0.980733,
+    "releaseLift": 0.02,
+    "calibrated": true,
+    "fitted": true,
+    "pump": {
+      "x": 0.0,
+      "y": -0.65,
+      "z": 1.17
+    },
+    "liftBarrelLength": 0.98,
+    "liftRodLength": 0.98,
+    "parts": {
+      "lift_barrel": "zs_lift_barrel_long",
+      "lift_rod": "zs_lift_rod_long"
+    },
+    "interactDistance": 8.229,
+    "maxTargetDistance": 11.229
+  },
+  "nathan4th": {
+    "mount": {
+      "x": 0.0,
+      "y": -1.95634,
+      "z": -0.53145
+    },
+    "minLift": 0,
+    "maxLift": 1,
+    "loadedMaxLift": 0.567107,
+    "stowLift": 0.8,
+    "liftTravel": 1.058002,
+    "releaseLift": 0.02,
+    "calibrated": true,
+    "fitted": true,
+    "pump": {
+      "x": 0.0,
+      "y": -0.65,
+      "z": 1.17
+    },
+    "liftBarrelLength": 0.98,
+    "liftRodLength": 0.98,
+    "parts": {
+      "lift_barrel": "zs_lift_barrel_long",
+      "lift_rod": "zs_lift_rod_long"
+    },
+    "interactDistance": 6,
+    "maxTargetDistance": 9
+  },
+  "nathan5g2": {
+    "mount": {
+      "x": 0.0,
+      "y": -1.81566,
+      "z": -0.63388
+    },
+    "minLift": 0,
+    "maxLift": 1,
+    "loadedMaxLift": 0.444297,
+    "stowLift": 0.8,
+    "liftTravel": 1.350448,
+    "releaseLift": 0.02,
+    "calibrated": true,
+    "fitted": true,
+    "pump": {
+      "x": 0.0,
+      "y": -0.65,
+      "z": 1.17
+    },
+    "liftBarrelLength": 0.98,
+    "liftRodLength": 0.98,
+    "parts": {
+      "lift_barrel": "zs_lift_barrel_long",
+      "lift_rod": "zs_lift_rod_long"
+    },
+    "interactDistance": 6,
+    "maxTargetDistance": 9
+  },
+  "nathan5g": {
+    "mount": {
+      "x": 0.0,
+      "y": -1.89847,
+      "z": -0.48137
+    },
+    "minLift": 0,
+    "maxLift": 1,
+    "loadedMaxLift": 0.652902,
+    "stowLift": 0.8,
+    "liftTravel": 0.918974,
+    "releaseLift": 0.02,
+    "calibrated": true,
+    "fitted": true,
+    "pump": {
+      "x": 0.0,
+      "y": -0.65,
+      "z": 1.17
+    },
+    "liftBarrelLength": 0.98,
+    "liftRodLength": 0.98,
+    "parts": {
+      "lift_barrel": "zs_lift_barrel_long",
+      "lift_rod": "zs_lift_rod_long"
+    },
+    "interactDistance": 6,
+    "maxTargetDistance": 9
+  },
+  "nathan5gbub": {
+    "mount": {
+      "x": 0.0,
+      "y": -2.00977,
+      "z": -0.97831
+    },
+    "minLift": 0,
+    "maxLift": 1,
+    "loadedMaxLift": 0.506734,
+    "stowLift": 0.8,
+    "liftTravel": 1.184054,
+    "releaseLift": 0.02,
+    "calibrated": true,
+    "fitted": true,
+    "pump": {
+      "x": 0.0,
+      "y": -0.65,
+      "z": 1.17
+    },
+    "liftBarrelLength": 0.98,
+    "liftRodLength": 0.98,
+    "parts": {
+      "lift_barrel": "zs_lift_barrel_long",
+      "lift_rod": "zs_lift_rod_long"
+    },
+    "interactDistance": 6.01,
+    "maxTargetDistance": 9.01
+  },
+  "nathan5th": {
+    "mount": {
+      "x": 0.0,
+      "y": -1.63003,
+      "z": -0.49043
+    },
+    "minLift": 0,
+    "maxLift": 1,
+    "loadedMaxLift": 0.644691,
+    "stowLift": 0.8,
+    "liftTravel": 0.930679,
+    "releaseLift": 0.02,
+    "calibrated": true,
+    "fitted": true,
+    "pump": {
+      "x": 0.0,
+      "y": -0.65,
+      "z": 1.17
+    },
+    "liftBarrelLength": 0.98,
+    "liftRodLength": 0.98,
+    "parts": {
+      "lift_barrel": "zs_lift_barrel_long",
+      "lift_rod": "zs_lift_rod_long"
+    },
+    "interactDistance": 6,
+    "maxTargetDistance": 9
+  },
+  "nathan5thg": {
+    "mount": {
+      "x": 0.0,
+      "y": -1.66449,
+      "z": -0.57748
+    },
+    "minLift": 0,
+    "maxLift": 1,
+    "loadedMaxLift": 0.468148,
+    "stowLift": 0.8,
+    "liftTravel": 1.281647,
+    "releaseLift": 0.02,
+    "calibrated": true,
+    "fitted": true,
+    "pump": {
+      "x": 0.0,
+      "y": -0.65,
+      "z": 1.17
+    },
+    "liftBarrelLength": 0.98,
+    "liftRodLength": 0.98,
+    "parts": {
+      "lift_barrel": "zs_lift_barrel_long",
+      "lift_rod": "zs_lift_rod_long"
+    },
+    "interactDistance": 6,
+    "maxTargetDistance": 9
+  },
+  "nathan60": {
+    "mount": {
+      "x": 0.0,
+      "y": -1.6683,
+      "z": -0.85626
+    },
+    "minLift": 0,
+    "maxLift": 1,
+    "loadedMaxLift": 0.522074,
+    "stowLift": 0.8,
+    "liftTravel": 1.149261,
+    "releaseLift": 0.02,
+    "calibrated": true,
+    "fitted": true,
+    "pump": {
+      "x": 0.0,
+      "y": -0.65,
+      "z": 1.17
+    },
+    "liftBarrelLength": 0.98,
+    "liftRodLength": 0.98,
+    "parts": {
+      "lift_barrel": "zs_lift_barrel_long",
+      "lift_rod": "zs_lift_rod_long"
+    },
+    "interactDistance": 6,
+    "maxTargetDistance": 9
+  },
+  "nathan66sd": {
+    "mount": {
+      "x": 0.0,
+      "y": -1.9688,
+      "z": -0.25284
+    },
+    "minLift": 0,
+    "maxLift": 1,
+    "loadedMaxLift": 0.602496,
+    "stowLift": 0.8,
+    "liftTravel": 0.995858,
+    "releaseLift": 0.02,
+    "calibrated": true,
+    "fitted": true,
+    "pump": {
+      "x": 0.0,
+      "y": -0.65,
+      "z": 1.17
+    },
+    "liftBarrelLength": 0.98,
+    "liftRodLength": 0.98,
+    "parts": {
+      "lift_barrel": "zs_lift_barrel_long",
+      "lift_rod": "zs_lift_rod_long"
+    },
+    "interactDistance": 6,
+    "maxTargetDistance": 9
+  },
+  "nathan6blow": {
+    "mount": {
+      "x": 0.0,
+      "y": -1.71079,
+      "z": -0.7219
+    },
+    "minLift": 0,
+    "maxLift": 1,
+    "loadedMaxLift": 0.561909,
+    "stowLift": 0.8,
+    "liftTravel": 1.067788,
+    "releaseLift": 0.02,
+    "calibrated": true,
+    "fitted": true,
+    "pump": {
+      "x": 0.0,
+      "y": -0.65,
+      "z": 1.17
+    },
+    "liftBarrelLength": 0.98,
+    "liftRodLength": 0.98,
+    "parts": {
+      "lift_barrel": "zs_lift_barrel_long",
+      "lift_rod": "zs_lift_rod_long"
+    },
+    "interactDistance": 6,
+    "maxTargetDistance": 9
+  },
+  "nathan6g": {
+    "mount": {
+      "x": 0.0,
+      "y": -1.98778,
+      "z": -0.77119
+    },
+    "minLift": 0,
+    "maxLift": 1,
+    "loadedMaxLift": 0.623594,
+    "stowLift": 0.8,
+    "liftTravel": 0.962165,
+    "releaseLift": 0.02,
+    "calibrated": true,
+    "fitted": true,
+    "pump": {
+      "x": 0.0,
+      "y": -0.65,
+      "z": 1.17
+    },
+    "liftBarrelLength": 0.98,
+    "liftRodLength": 0.98,
+    "parts": {
+      "lift_barrel": "zs_lift_barrel_long",
+      "lift_rod": "zs_lift_rod_long"
+    },
+    "interactDistance": 6,
+    "maxTargetDistance": 9
+  },
+  "nathan6gdual": {
+    "mount": {
+      "x": 0.0,
+      "y": -2.04642,
+      "z": -0.99528
+    },
+    "minLift": 0,
+    "maxLift": 1,
+    "loadedMaxLift": 0.514836,
+    "stowLift": 0.8,
+    "liftTravel": 1.16542,
+    "releaseLift": 0.02,
+    "calibrated": true,
+    "fitted": true,
+    "pump": {
+      "x": 0.0,
+      "y": -0.65,
+      "z": 1.17
+    },
+    "liftBarrelLength": 0.98,
+    "liftRodLength": 0.98,
+    "parts": {
+      "lift_barrel": "zs_lift_barrel_long",
+      "lift_rod": "zs_lift_rod_long"
+    },
+    "interactDistance": 6.046,
+    "maxTargetDistance": 9.046
+  },
+  "nathan6gearthroamer": {
+    "mount": {
+      "x": 0,
+      "y": -5.09931,
+      "z": -0.87562
+    },
+    "minLift": 0,
+    "maxLift": 1,
+    "loadedMaxLift": 0.624471,
+    "stowLift": 0.8,
+    "liftTravel": 0.960813,
+    "releaseLift": 0.02,
+    "calibrated": true,
+    "fitted": true,
+    "pump": {
+      "x": 0,
+      "y": -0.65,
+      "z": 1.17
+    },
+    "liftBarrelLength": 0.98,
+    "liftRodLength": 0.98,
+    "parts": {
+      "lift_barrel": "zs_lift_barrel_long",
+      "lift_rod": "zs_lift_rod_long"
+    },
+    "interactDistance": 9.099,
+    "maxTargetDistance": 12.099
+  },
+  "nathan6hoe": {
+    "mount": {
+      "x": 0.0,
+      "y": -1.68376,
+      "z": -0.84091
+    },
+    "minLift": 0,
+    "maxLift": 1,
+    "loadedMaxLift": 0.462861,
+    "stowLift": 0.8,
+    "liftTravel": 1.296284,
+    "releaseLift": 0.02,
+    "calibrated": true,
+    "fitted": true,
+    "pump": {
+      "x": 0.0,
+      "y": -0.65,
+      "z": 1.17
+    },
+    "liftBarrelLength": 0.98,
+    "liftRodLength": 0.98,
+    "parts": {
+      "lift_barrel": "zs_lift_barrel_long",
+      "lift_rod": "zs_lift_rod_long"
+    },
+    "interactDistance": 6,
+    "maxTargetDistance": 9
+  },
+  "nathan6ohdual": {
+    "mount": {
+      "x": 0.0,
+      "y": -1.99377,
+      "z": -0.6707
+    },
+    "minLift": 0,
+    "maxLift": 1,
+    "loadedMaxLift": 1.0,
+    "stowLift": 0.646813,
+    "liftTravel": 0.6,
+    "releaseLift": 0.02,
+    "calibrated": true,
+    "fitted": true,
+    "pump": {
+      "x": 0.0,
+      "y": -0.65,
+      "z": 1.17
+    },
+    "interactDistance": 6,
+    "maxTargetDistance": 9
+  },
+  "nathanalumidual": {
+    "mount": {
+      "x": 0.0,
+      "y": -2.77048,
+      "z": -0.78047
+    },
+    "minLift": 0,
+    "maxLift": 1,
+    "loadedMaxLift": 0.973685,
+    "stowLift": 0.8,
+    "liftTravel": 0.616216,
+    "releaseLift": 0.02,
+    "calibrated": true,
+    "fitted": true,
+    "pump": {
+      "x": 0.0,
+      "y": -0.65,
+      "z": 1.17
+    },
+    "interactDistance": 6.77,
+    "maxTargetDistance": 9.77
+  },
+  "nathanalumiduty2": {
+    "mount": {
+      "x": 0.0,
+      "y": -2.28359,
+      "z": -0.85549
+    },
+    "minLift": 0,
+    "maxLift": 1,
+    "loadedMaxLift": 0.514979,
+    "stowLift": 0.8,
+    "liftTravel": 1.165097,
+    "releaseLift": 0.02,
+    "calibrated": true,
+    "fitted": true,
+    "pump": {
+      "x": 0.0,
+      "y": -0.65,
+      "z": 1.17
+    },
+    "liftBarrelLength": 0.98,
+    "liftRodLength": 0.98,
+    "parts": {
+      "lift_barrel": "zs_lift_barrel_long",
+      "lift_rod": "zs_lift_rod_long"
+    },
+    "interactDistance": 6.284,
+    "maxTargetDistance": 9.284
+  },
+  "nathanalumiduty": {
+    "mount": {
+      "x": 0.0,
+      "y": -2.28739,
+      "z": -0.82592
+    },
+    "minLift": 0,
+    "maxLift": 1,
+    "loadedMaxLift": 0.531746,
+    "stowLift": 0.8,
+    "liftTravel": 1.128359,
+    "releaseLift": 0.02,
+    "calibrated": true,
+    "fitted": true,
+    "pump": {
+      "x": 0.0,
+      "y": -0.65,
+      "z": 1.17
+    },
+    "liftBarrelLength": 0.98,
+    "liftRodLength": 0.98,
+    "parts": {
+      "lift_barrel": "zs_lift_barrel_long",
+      "lift_rod": "zs_lift_rod_long"
+    },
+    "interactDistance": 6.287,
+    "maxTargetDistance": 9.287
+  },
+  "nathananydual": {
+    "mount": {
+      "x": 0.0,
+      "y": -2.6368,
+      "z": -0.72743
+    },
+    "minLift": 0,
+    "maxLift": 1,
+    "loadedMaxLift": 0.535577,
+    "stowLift": 0.8,
+    "liftTravel": 1.120287,
+    "releaseLift": 0.02,
+    "calibrated": true,
+    "fitted": true,
+    "pump": {
+      "x": 0.0,
+      "y": -0.65,
+      "z": 1.17
+    },
+    "liftBarrelLength": 0.98,
+    "liftRodLength": 0.98,
+    "parts": {
+      "lift_barrel": "zs_lift_barrel_long",
+      "lift_rod": "zs_lift_rod_long"
+    },
+    "interactDistance": 6.637,
+    "maxTargetDistance": 9.637
+  },
+  "nathanbaggedsteel": {
+    "mount": {
+      "x": 0.0,
+      "y": -2.01483,
+      "z": -0.36038
+    },
+    "minLift": 0,
+    "maxLift": 1,
+    "loadedMaxLift": 0.841747,
+    "stowLift": 0.8,
+    "liftTravel": 0.712803,
+    "releaseLift": 0.02,
+    "calibrated": true,
+    "fitted": true,
+    "pump": {
+      "x": 0.0,
+      "y": -0.65,
+      "z": 1.17
+    },
+    "interactDistance": 6.015,
+    "maxTargetDistance": 9.015
+  },
+  "nathanbandit": {
+    "mount": {
+      "x": 0.0,
+      "y": -1.90394,
+      "z": -0.42826
+    },
+    "minLift": 0,
+    "maxLift": 1,
+    "loadedMaxLift": 0.665129,
+    "stowLift": 0.8,
+    "liftTravel": 0.902081,
+    "releaseLift": 0.02,
+    "calibrated": true,
+    "fitted": true,
+    "pump": {
+      "x": 0.0,
+      "y": -0.65,
+      "z": 1.17
+    },
+    "liftBarrelLength": 0.98,
+    "liftRodLength": 0.98,
+    "parts": {
+      "lift_barrel": "zs_lift_barrel_long",
+      "lift_rod": "zs_lift_rod_long"
+    },
+    "interactDistance": 6,
+    "maxTargetDistance": 9
+  },
+  "nathanbubba6oh": {
+    "mount": {
+      "x": 0.0,
+      "y": -1.80362,
+      "z": -0.92328
+    },
+    "minLift": 0,
+    "maxLift": 1,
+    "loadedMaxLift": 0.435908,
+    "stowLift": 0.8,
+    "liftTravel": 1.376436,
+    "releaseLift": 0.02,
+    "calibrated": true,
+    "fitted": true,
+    "pump": {
+      "x": 0.0,
+      "y": -0.65,
+      "z": 1.17
+    },
+    "liftBarrelLength": 0.98,
+    "liftRodLength": 0.98,
+    "parts": {
+      "lift_barrel": "zs_lift_barrel_long",
+      "lift_rod": "zs_lift_rod_long"
+    },
+    "interactDistance": 6,
+    "maxTargetDistance": 9
+  },
+  "nathanbubbalmm": {
+    "mount": {
+      "x": 0.0,
+      "y": -2.0493,
+      "z": -0.31483
+    },
+    "minLift": 0,
+    "maxLift": 1,
+    "loadedMaxLift": 1.0,
+    "stowLift": 0.711402,
+    "liftTravel": 0.6,
+    "releaseLift": 0.02,
+    "calibrated": true,
+    "fitted": true,
+    "pump": {
+      "x": 0.0,
+      "y": -0.65,
+      "z": 1.17
+    },
+    "interactDistance": 6.049,
+    "maxTargetDistance": 9.049
+  },
+  "nathancabela64": {
+    "mount": {
+      "x": 0.0,
+      "y": -1.90294,
+      "z": -0.48711
+    },
+    "minLift": 0,
+    "maxLift": 1,
+    "loadedMaxLift": 0.545325,
+    "stowLift": 0.8,
+    "liftTravel": 1.100261,
+    "releaseLift": 0.02,
+    "calibrated": true,
+    "fitted": true,
+    "pump": {
+      "x": 0.0,
+      "y": -0.65,
+      "z": 1.17
+    },
+    "liftBarrelLength": 0.98,
+    "liftRodLength": 0.98,
+    "parts": {
+      "lift_barrel": "zs_lift_barrel_long",
+      "lift_rod": "zs_lift_rod_long"
+    },
+    "interactDistance": 6,
+    "maxTargetDistance": 9
+  },
+  "nathancaptain": {
+    "mount": {
+      "x": 0.0,
+      "y": -1.71433,
+      "z": -0.54529
+    },
+    "minLift": 0,
+    "maxLift": 1,
+    "loadedMaxLift": 1.0,
+    "stowLift": 0.660471,
+    "liftTravel": 0.6,
+    "releaseLift": 0.02,
+    "calibrated": true,
+    "fitted": true,
+    "pump": {
+      "x": 0.0,
+      "y": -0.65,
+      "z": 1.17
+    },
+    "interactDistance": 6,
+    "maxTargetDistance": 9
+  },
+  "nathancat": {
+    "mount": {
+      "x": 0.0,
+      "y": -1.87147,
+      "z": -0.66971
+    },
+    "minLift": 0,
+    "maxLift": 1,
+    "loadedMaxLift": 0.688056,
+    "stowLift": 0.8,
+    "liftTravel": 0.872022,
+    "releaseLift": 0.02,
+    "calibrated": true,
+    "fitted": true,
+    "pump": {
+      "x": 0.0,
+      "y": -0.65,
+      "z": 1.17
+    },
+    "liftBarrelLength": 0.98,
+    "liftRodLength": 0.98,
+    "parts": {
+      "lift_barrel": "zs_lift_barrel_long",
+      "lift_rod": "zs_lift_rod_long"
+    },
+    "interactDistance": 6,
+    "maxTargetDistance": 9
+  },
+  "nathancateye": {
+    "mount": {
+      "x": 0.0,
+      "y": -2.17573,
+      "z": -0.71364
+    },
+    "minLift": 0,
+    "maxLift": 1,
+    "loadedMaxLift": 0.83048,
+    "stowLift": 0.8,
+    "liftTravel": 0.722474,
+    "releaseLift": 0.02,
+    "calibrated": true,
+    "fitted": true,
+    "pump": {
+      "x": 0.0,
+      "y": -0.65,
+      "z": 1.17
+    },
+    "liftBarrelLength": 0.98,
+    "liftRodLength": 0.98,
+    "parts": {
+      "lift_barrel": "zs_lift_barrel_long",
+      "lift_rod": "zs_lift_rod_long"
+    },
+    "interactDistance": 6.176,
+    "maxTargetDistance": 9.176
+  },
+  "nathancateyebub": {
+    "mount": {
+      "x": 0.0,
+      "y": -1.81541,
+      "z": -0.88851
+    },
+    "minLift": 0,
+    "maxLift": 1,
+    "loadedMaxLift": 0.48949,
+    "stowLift": 0.8,
+    "liftTravel": 1.225765,
+    "releaseLift": 0.02,
+    "calibrated": true,
+    "fitted": true,
+    "pump": {
+      "x": 0.0,
+      "y": -0.65,
+      "z": 1.17
+    },
+    "liftBarrelLength": 0.98,
+    "liftRodLength": 0.98,
+    "parts": {
+      "lift_barrel": "zs_lift_barrel_long",
+      "lift_rod": "zs_lift_rod_long"
+    },
+    "interactDistance": 6,
+    "maxTargetDistance": 9
+  },
+  "nathanchan": {
+    "mount": {
+      "x": 0.0,
+      "y": -3.86061,
+      "z": -0.81598
+    },
+    "minLift": 0,
+    "maxLift": 1,
+    "loadedMaxLift": 0.744533,
+    "stowLift": 0.8,
+    "liftTravel": 0.805874,
+    "releaseLift": 0.02,
+    "calibrated": true,
+    "fitted": true,
+    "pump": {
+      "x": 0.0,
+      "y": -0.65,
+      "z": 1.17
+    },
+    "liftBarrelLength": 0.98,
+    "liftRodLength": 0.98,
+    "parts": {
+      "lift_barrel": "zs_lift_barrel_long",
+      "lift_rod": "zs_lift_rod_long"
+    },
+    "interactDistance": 7.861,
+    "maxTargetDistance": 10.861
+  },
+  "nathanchris": {
+    "mount": {
+      "x": 0.0,
+      "y": -2.16441,
+      "z": -0.64339
+    },
+    "minLift": 0,
+    "maxLift": 1,
+    "loadedMaxLift": 0.591537,
+    "stowLift": 0.8,
+    "liftTravel": 1.014307,
+    "releaseLift": 0.02,
+    "calibrated": true,
+    "fitted": true,
+    "pump": {
+      "x": 0.0,
+      "y": -0.65,
+      "z": 1.17
+    },
+    "liftBarrelLength": 0.98,
+    "liftRodLength": 0.98,
+    "parts": {
+      "lift_barrel": "zs_lift_barrel_long",
+      "lift_rod": "zs_lift_rod_long"
+    },
+    "interactDistance": 6.164,
+    "maxTargetDistance": 9.164
+  },
+  "nathancolev3": {
+    "mount": {
+      "x": 0.0,
+      "y": -2.39161,
+      "z": -1.01952
+    },
+    "minLift": 0,
+    "maxLift": 1,
+    "loadedMaxLift": 0.599074,
+    "stowLift": 0.8,
+    "liftTravel": 1.001545,
+    "releaseLift": 0.02,
+    "calibrated": true,
+    "fitted": true,
+    "pump": {
+      "x": 0.0,
+      "y": -0.65,
+      "z": 1.17
+    },
+    "liftBarrelLength": 0.98,
+    "liftRodLength": 0.98,
+    "parts": {
+      "lift_barrel": "zs_lift_barrel_long",
+      "lift_rod": "zs_lift_rod_long"
+    },
+    "interactDistance": 6.392,
+    "maxTargetDistance": 9.392
+  },
+  "nathancolev6": {
+    "mount": {
+      "x": 0.0,
+      "y": -2.01047,
+      "z": -0.56147
+    },
+    "minLift": 0,
+    "maxLift": 1,
+    "loadedMaxLift": 1.0,
+    "stowLift": 0.734489,
+    "liftTravel": 0.6,
+    "releaseLift": 0.02,
+    "calibrated": true,
+    "fitted": true,
+    "pump": {
+      "x": 0.0,
+      "y": -0.65,
+      "z": 1.17
+    },
+    "interactDistance": 6.01,
+    "maxTargetDistance": 9.01
+  },
+  "nathancolev7": {
+    "mount": {
+      "x": 0.0,
+      "y": -2.27958,
+      "z": -0.72269
+    },
+    "minLift": 0,
+    "maxLift": 1,
+    "loadedMaxLift": 0.582245,
+    "stowLift": 0.8,
+    "liftTravel": 1.030494,
+    "releaseLift": 0.02,
+    "calibrated": true,
+    "fitted": true,
+    "pump": {
+      "x": 0.0,
+      "y": -0.65,
+      "z": 1.17
+    },
+    "liftBarrelLength": 0.98,
+    "liftRodLength": 0.98,
+    "parts": {
+      "lift_barrel": "zs_lift_barrel_long",
+      "lift_rod": "zs_lift_rod_long"
+    },
+    "interactDistance": 6.28,
+    "maxTargetDistance": 9.28
+  },
+  "nathancrude": {
+    "mount": {
+      "x": 0.0,
+      "y": -2.10588,
+      "z": -0.43376
+    },
+    "minLift": 0,
+    "maxLift": 1,
+    "loadedMaxLift": 0.767504,
+    "stowLift": 0.8,
+    "liftTravel": 0.781754,
+    "releaseLift": 0.02,
+    "calibrated": true,
+    "fitted": true,
+    "pump": {
+      "x": 0.0,
+      "y": -0.65,
+      "z": 1.17
+    },
+    "liftBarrelLength": 0.98,
+    "liftRodLength": 0.98,
+    "parts": {
+      "lift_barrel": "zs_lift_barrel_long",
+      "lift_rod": "zs_lift_rod_long"
+    },
+    "interactDistance": 6.106,
+    "maxTargetDistance": 9.106
+  },
+  "nathancrxsh": {
+    "mount": {
+      "x": 0.0,
+      "y": -2.47071,
+      "z": -0.59774
+    },
+    "minLift": 0,
+    "maxLift": 1,
+    "loadedMaxLift": 0.526173,
+    "stowLift": 0.8,
+    "liftTravel": 1.14031,
+    "releaseLift": 0.02,
+    "calibrated": true,
+    "fitted": true,
+    "pump": {
+      "x": 0.0,
+      "y": -0.65,
+      "z": 1.17
+    },
+    "liftBarrelLength": 0.98,
+    "liftRodLength": 0.98,
+    "parts": {
+      "lift_barrel": "zs_lift_barrel_long",
+      "lift_rod": "zs_lift_rod_long"
+    },
+    "interactDistance": 6.471,
+    "maxTargetDistance": 9.471
+  },
+  "nathandank": {
+    "mount": {
+      "x": 0.0,
+      "y": -2.37077,
+      "z": -0.67307
+    },
+    "minLift": 0,
+    "maxLift": 1,
+    "loadedMaxLift": 0.742844,
+    "stowLift": 0.8,
+    "liftTravel": 0.807706,
+    "releaseLift": 0.02,
+    "calibrated": true,
+    "fitted": true,
+    "pump": {
+      "x": 0.0,
+      "y": -0.65,
+      "z": 1.17
+    },
+    "liftBarrelLength": 0.98,
+    "liftRodLength": 0.98,
+    "parts": {
+      "lift_barrel": "zs_lift_barrel_long",
+      "lift_rod": "zs_lift_rod_long"
+    },
+    "interactDistance": 6.371,
+    "maxTargetDistance": 9.371
+  },
+  "nathandankv2": {
+    "mount": {
+      "x": 0.0,
+      "y": -2.59368,
+      "z": -0.51332
+    },
+    "minLift": 0,
+    "maxLift": 1,
+    "loadedMaxLift": 0.498597,
+    "stowLift": 0.8,
+    "liftTravel": 1.203377,
+    "releaseLift": 0.02,
+    "calibrated": true,
+    "fitted": true,
+    "pump": {
+      "x": 0.0,
+      "y": -0.65,
+      "z": 1.17
+    },
+    "liftBarrelLength": 0.98,
+    "liftRodLength": 0.98,
+    "parts": {
+      "lift_barrel": "zs_lift_barrel_long",
+      "lift_rod": "zs_lift_rod_long"
+    },
+    "interactDistance": 6.594,
+    "maxTargetDistance": 9.594
+  },
+  "nathandankv3": {
+    "mount": {
+      "x": 0.0,
+      "y": -2.46841,
+      "z": -0.37412
+    },
+    "minLift": 0,
+    "maxLift": 1,
+    "loadedMaxLift": 0.644528,
+    "stowLift": 0.8,
+    "liftTravel": 0.930914,
+    "releaseLift": 0.02,
+    "calibrated": true,
+    "fitted": true,
+    "pump": {
+      "x": 0.0,
+      "y": -0.65,
+      "z": 1.17
+    },
+    "liftBarrelLength": 0.98,
+    "liftRodLength": 0.98,
+    "parts": {
+      "lift_barrel": "zs_lift_barrel_long",
+      "lift_rod": "zs_lift_rod_long"
+    },
+    "interactDistance": 6.468,
+    "maxTargetDistance": 9.468
+  },
+  "nathandankv4": {
+    "mount": {
+      "x": 0.0,
+      "y": -3.54755,
+      "z": -0.74926
+    },
+    "minLift": 0,
+    "maxLift": 1,
+    "loadedMaxLift": 1.0,
+    "stowLift": 0.35,
+    "liftTravel": 0.6,
+    "releaseLift": 0.02,
+    "calibrated": true,
+    "fitted": true,
+    "pump": {
+      "x": 0.0,
+      "y": -0.65,
+      "z": 1.17
+    },
+    "interactDistance": 7.548,
+    "maxTargetDistance": 10.548
+  },
+  "nathandavis": {
+    "mount": {
+      "x": 0.0,
+      "y": -2.36598,
+      "z": -0.72633
+    },
+    "minLift": 0,
+    "maxLift": 1,
+    "loadedMaxLift": 0.782324,
+    "stowLift": 0.8,
+    "liftTravel": 0.766946,
+    "releaseLift": 0.02,
+    "calibrated": true,
+    "fitted": true,
+    "pump": {
+      "x": 0.0,
+      "y": -0.65,
+      "z": 1.17
+    },
+    "liftBarrelLength": 0.98,
+    "liftRodLength": 0.98,
+    "parts": {
+      "lift_barrel": "zs_lift_barrel_long",
+      "lift_rod": "zs_lift_rod_long"
+    },
+    "interactDistance": 6.366,
+    "maxTargetDistance": 9.366
+  },
+  "nathandaycab": {
+    "mount": {
+      "x": 0.0,
+      "y": -3.28062,
+      "z": -0.82057
+    },
+    "minLift": 0,
+    "maxLift": 1,
+    "loadedMaxLift": 1.0,
+    "stowLift": 0.697087,
+    "liftTravel": 0.6,
+    "releaseLift": 0.02,
+    "calibrated": true,
+    "fitted": true,
+    "pump": {
+      "x": 0.0,
+      "y": -0.65,
+      "z": 1.17
+    },
+    "interactDistance": 7.281,
+    "maxTargetDistance": 10.281
+  },
+  "nathandual": {
+    "mount": {
+      "x": 0.0,
+      "y": -2.64735,
+      "z": -0.70177
+    },
+    "minLift": 0,
+    "maxLift": 1,
+    "loadedMaxLift": 0.558486,
+    "stowLift": 0.8,
+    "liftTravel": 1.074333,
+    "releaseLift": 0.02,
+    "calibrated": true,
+    "fitted": true,
+    "pump": {
+      "x": 0.0,
+      "y": -0.65,
+      "z": 1.17
+    },
+    "liftBarrelLength": 0.98,
+    "liftRodLength": 0.98,
+    "parts": {
+      "lift_barrel": "zs_lift_barrel_long",
+      "lift_rod": "zs_lift_rod_long"
+    },
+    "interactDistance": 6.647,
+    "maxTargetDistance": 9.647
+  },
+  "nathandualplat": {
+    "mount": {
+      "x": 0.0,
+      "y": -2.69578,
+      "z": -0.6711
+    },
+    "minLift": 0,
+    "maxLift": 1,
+    "loadedMaxLift": 0.812997,
+    "stowLift": 0.8,
+    "liftTravel": 0.73801,
+    "releaseLift": 0.02,
+    "calibrated": true,
+    "fitted": true,
+    "pump": {
+      "x": 0.0,
+      "y": -0.65,
+      "z": 1.17
+    },
+    "liftBarrelLength": 0.98,
+    "liftRodLength": 0.98,
+    "parts": {
+      "lift_barrel": "zs_lift_barrel_long",
+      "lift_rod": "zs_lift_rod_long"
+    },
+    "interactDistance": 6.696,
+    "maxTargetDistance": 9.696
+  },
+  "nathandualround": {
+    "mount": {
+      "x": 0.0,
+      "y": -1.86145,
+      "z": -0.30021
+    },
+    "minLift": 0,
+    "maxLift": 1,
+    "loadedMaxLift": 0.780328,
+    "stowLift": 0.8,
+    "liftTravel": 0.768907,
+    "releaseLift": 0.02,
+    "calibrated": true,
+    "fitted": true,
+    "pump": {
+      "x": 0.0,
+      "y": -0.65,
+      "z": 1.17
+    },
+    "liftBarrelLength": 0.98,
+    "liftRodLength": 0.98,
+    "parts": {
+      "lift_barrel": "zs_lift_barrel_long",
+      "lift_rod": "zs_lift_rod_long"
+    },
+    "interactDistance": 6,
+    "maxTargetDistance": 9
+  },
+  "nathanearthroamer": {
+    "mount": {
+      "x": 0,
+      "y": -5.09931,
+      "z": -1.00996
+    },
+    "minLift": 0,
+    "maxLift": 1,
+    "loadedMaxLift": 1.0,
+    "stowLift": 0.35,
+    "liftTravel": 0.6,
+    "releaseLift": 0.02,
+    "calibrated": true,
+    "fitted": true,
+    "pump": {
+      "x": 0,
+      "y": -0.65,
+      "z": 1.17
+    },
+    "interactDistance": 9.099,
+    "maxTargetDistance": 12.099
+  },
+  "nathanf100": {
+    "mount": {
+      "x": 0.0,
+      "y": -1.38704,
+      "z": -0.828
+    },
+    "minLift": 0,
+    "maxLift": 1,
+    "loadedMaxLift": 0.430786,
+    "stowLift": 0.8,
+    "liftTravel": 1.392802,
+    "releaseLift": 0.02,
+    "calibrated": true,
+    "fitted": true,
+    "pump": {
+      "x": 0.0,
+      "y": -0.65,
+      "z": 1.17
+    },
+    "liftBarrelLength": 0.98,
+    "liftRodLength": 0.98,
+    "parts": {
+      "lift_barrel": "zs_lift_barrel_long",
+      "lift_rod": "zs_lift_rod_long"
+    },
+    "interactDistance": 6,
+    "maxTargetDistance": 9
+  },
+  "nathanf150": {
+    "mount": {
+      "x": 0.0,
+      "y": -1.80917,
+      "z": -0.49682
+    },
+    "minLift": 0,
+    "maxLift": 1,
+    "loadedMaxLift": 0.948748,
+    "stowLift": 0.8,
+    "liftTravel": 0.632413,
+    "releaseLift": 0.02,
+    "calibrated": true,
+    "fitted": true,
+    "pump": {
+      "x": 0.0,
+      "y": -0.65,
+      "z": 1.17
+    },
+    "interactDistance": 6,
+    "maxTargetDistance": 9
+  },
+  "nathanflatcat": {
+    "mount": {
+      "x": 0.0,
+      "y": -2.09815,
+      "z": -0.67247
+    },
+    "minLift": 0,
+    "maxLift": 1,
+    "loadedMaxLift": 0.664777,
+    "stowLift": 0.8,
+    "liftTravel": 0.902559,
+    "releaseLift": 0.02,
+    "calibrated": true,
+    "fitted": true,
+    "pump": {
+      "x": 0.0,
+      "y": -0.65,
+      "z": 1.17
+    },
+    "liftBarrelLength": 0.98,
+    "liftRodLength": 0.98,
+    "parts": {
+      "lift_barrel": "zs_lift_barrel_long",
+      "lift_rod": "zs_lift_rod_long"
+    },
+    "interactDistance": 6.098,
+    "maxTargetDistance": 9.098
+  },
+  "nathanfp5g": {
+    "mount": {
+      "x": 0.0,
+      "y": -2.17777,
+      "z": -0.77119
+    },
+    "minLift": 0,
+    "maxLift": 1,
+    "loadedMaxLift": 0.659046,
+    "stowLift": 0.8,
+    "liftTravel": 0.910407,
+    "releaseLift": 0.02,
+    "calibrated": true,
+    "fitted": true,
+    "pump": {
+      "x": 0.0,
+      "y": -0.65,
+      "z": 1.17
+    },
+    "liftBarrelLength": 0.98,
+    "liftRodLength": 0.98,
+    "parts": {
+      "lift_barrel": "zs_lift_barrel_long",
+      "lift_rod": "zs_lift_rod_long"
+    },
+    "interactDistance": 6.178,
+    "maxTargetDistance": 9.178
+  },
+  "nathanfried": {
+    "mount": {
+      "x": 0.0,
+      "y": -2.46847,
+      "z": -0.35329
+    },
+    "minLift": 0,
+    "maxLift": 1,
+    "loadedMaxLift": 1.0,
+    "stowLift": 0.697829,
+    "liftTravel": 0.6,
+    "releaseLift": 0.02,
+    "calibrated": true,
+    "fitted": true,
+    "pump": {
+      "x": 0.0,
+      "y": -0.65,
+      "z": 1.17
+    },
+    "interactDistance": 6.468,
+    "maxTargetDistance": 9.468
+  },
+  "nathangham": {
+    "mount": {
+      "x": 0.0,
+      "y": -1.94545,
+      "z": -0.716
+    },
+    "minLift": 0,
+    "maxLift": 1,
+    "loadedMaxLift": 1.0,
+    "stowLift": 0.706462,
+    "liftTravel": 0.6,
+    "releaseLift": 0.02,
+    "calibrated": true,
+    "fitted": true,
+    "pump": {
+      "x": 0.0,
+      "y": -0.65,
+      "z": 1.17
+    },
+    "interactDistance": 6,
+    "maxTargetDistance": 9
+  },
+  "nathanghost3g": {
+    "mount": {
+      "x": 0.0,
+      "y": -2.08542,
+      "z": -0.54452
+    },
+    "minLift": 0,
+    "maxLift": 1,
+    "loadedMaxLift": 0.631074,
+    "stowLift": 0.8,
+    "liftTravel": 0.950761,
+    "releaseLift": 0.02,
+    "calibrated": true,
+    "fitted": true,
+    "pump": {
+      "x": 0.0,
+      "y": -0.65,
+      "z": 1.17
+    },
+    "liftBarrelLength": 0.98,
+    "liftRodLength": 0.98,
+    "parts": {
+      "lift_barrel": "zs_lift_barrel_long",
+      "lift_rod": "zs_lift_rod_long"
+    },
+    "interactDistance": 6.085,
+    "maxTargetDistance": 9.085
+  },
+  "nathangladiator": {
+    "mount": {
+      "x": 0.0,
+      "y": -1.75272,
+      "z": -0.6569
+    },
+    "minLift": 0,
+    "maxLift": 1,
+    "loadedMaxLift": 0.916406,
+    "stowLift": 0.8,
+    "liftTravel": 0.654731,
+    "releaseLift": 0.02,
+    "calibrated": true,
+    "fitted": true,
+    "pump": {
+      "x": 0.0,
+      "y": -0.65,
+      "z": 1.17
+    },
+    "interactDistance": 6,
+    "maxTargetDistance": 9
+  },
+  "nathangregpete": {
+    "mount": {
+      "x": 0.0,
+      "y": -5.35431,
+      "z": -0.55025
+    },
+    "minLift": 0,
+    "maxLift": 1,
+    "loadedMaxLift": 1.0,
+    "stowLift": 0.35,
+    "liftTravel": 0.6,
+    "releaseLift": 0.02,
+    "calibrated": true,
+    "fitted": true,
+    "pump": {
+      "x": 0.0,
+      "y": -0.65,
+      "z": 1.17
+    },
+    "interactDistance": 9.354,
+    "maxTargetDistance": 12.354
+  },
+  "nathanharley6oh": {
+    "mount": {
+      "x": 0.0,
+      "y": -1.66078,
+      "z": -0.97341
+    },
+    "minLift": 0,
+    "maxLift": 1,
+    "loadedMaxLift": 0.463309,
+    "stowLift": 0.8,
+    "liftTravel": 1.295033,
+    "releaseLift": 0.02,
+    "calibrated": true,
+    "fitted": true,
+    "pump": {
+      "x": 0.0,
+      "y": -0.65,
+      "z": 1.17
+    },
+    "liftBarrelLength": 0.98,
+    "liftRodLength": 0.98,
+    "parts": {
+      "lift_barrel": "zs_lift_barrel_long",
+      "lift_rod": "zs_lift_rod_long"
+    },
+    "interactDistance": 6,
+    "maxTargetDistance": 9
+  },
+  "nathanharley": {
+    "mount": {
+      "x": 0.0,
+      "y": -1.70079,
+      "z": -0.68336
+    },
+    "minLift": 0,
+    "maxLift": 1,
+    "loadedMaxLift": 0.560235,
+    "stowLift": 0.8,
+    "liftTravel": 1.070979,
+    "releaseLift": 0.02,
+    "calibrated": true,
+    "fitted": true,
+    "pump": {
+      "x": 0.0,
+      "y": -0.65,
+      "z": 1.17
+    },
+    "liftBarrelLength": 0.98,
+    "liftRodLength": 0.98,
+    "parts": {
+      "lift_barrel": "zs_lift_barrel_long",
+      "lift_rod": "zs_lift_rod_long"
+    },
+    "interactDistance": 6,
+    "maxTargetDistance": 9
+  },
+  "nathanhctow": {
+    "mount": {
+      "x": 0.0,
+      "y": -2.70651,
+      "z": -0.81029
+    },
+    "minLift": 0,
+    "maxLift": 1,
+    "loadedMaxLift": 0.532212,
+    "stowLift": 0.8,
+    "liftTravel": 1.127369,
+    "releaseLift": 0.02,
+    "calibrated": true,
+    "fitted": true,
+    "pump": {
+      "x": 0.0,
+      "y": -0.65,
+      "z": 1.17
+    },
+    "liftBarrelLength": 0.98,
+    "liftRodLength": 0.98,
+    "parts": {
+      "lift_barrel": "zs_lift_barrel_long",
+      "lift_rod": "zs_lift_rod_long"
+    },
+    "interactDistance": 6.707,
+    "maxTargetDistance": 9.707
+  },
+  "nathanjeep": {
+    "mount": {
+      "x": 0.0,
+      "y": -1.31662,
+      "z": -0.70005
+    },
+    "minLift": 0,
+    "maxLift": 1,
+    "loadedMaxLift": 0.396211,
+    "stowLift": 0.8,
+    "liftTravel": 1.514345,
+    "releaseLift": 0.02,
+    "calibrated": true,
+    "fitted": true,
+    "pump": {
+      "x": 0.0,
+      "y": -0.65,
+      "z": 1.17
+    },
+    "liftBarrelLength": 0.98,
+    "liftRodLength": 0.98,
+    "parts": {
+      "lift_barrel": "zs_lift_barrel_long",
+      "lift_rod": "zs_lift_rod_long"
+    },
+    "interactDistance": 6,
+    "maxTargetDistance": 9
+  },
+  "nathanjordand": {
+    "mount": {
+      "x": 0.0,
+      "y": -2.05368,
+      "z": -0.60579
+    },
+    "minLift": 0,
+    "maxLift": 1,
+    "loadedMaxLift": 0.662918,
+    "stowLift": 0.8,
+    "liftTravel": 0.905089,
+    "releaseLift": 0.02,
+    "calibrated": true,
+    "fitted": true,
+    "pump": {
+      "x": 0.0,
+      "y": -0.65,
+      "z": 1.17
+    },
+    "liftBarrelLength": 0.98,
+    "liftRodLength": 0.98,
+    "parts": {
+      "lift_barrel": "zs_lift_barrel_long",
+      "lift_rod": "zs_lift_rod_long"
+    },
+    "interactDistance": 6.054,
+    "maxTargetDistance": 9.054
+  },
+  "nathank1500life": {
+    "mount": {
+      "x": 0.0,
+      "y": -2.01032,
+      "z": -0.69177
+    },
+    "minLift": 0,
+    "maxLift": 1,
+    "loadedMaxLift": 0.525485,
+    "stowLift": 0.8,
+    "liftTravel": 1.141803,
+    "releaseLift": 0.02,
+    "calibrated": true,
+    "fitted": true,
+    "pump": {
+      "x": 0.0,
+      "y": -0.65,
+      "z": 1.17
+    },
+    "liftBarrelLength": 0.98,
+    "liftRodLength": 0.98,
+    "parts": {
+      "lift_barrel": "zs_lift_barrel_long",
+      "lift_rod": "zs_lift_rod_long"
+    },
+    "interactDistance": 6.01,
+    "maxTargetDistance": 9.01
+  },
+  "nathankai": {
+    "mount": {
+      "x": 0.0,
+      "y": -1.52274,
+      "z": -1.01934
+    },
+    "minLift": 0,
+    "maxLift": 1,
+    "loadedMaxLift": 0.749414,
+    "stowLift": 0.8,
+    "liftTravel": 0.800626,
+    "releaseLift": 0.02,
+    "calibrated": true,
+    "fitted": true,
+    "pump": {
+      "x": 0.0,
+      "y": -0.65,
+      "z": 1.17
+    },
+    "liftBarrelLength": 0.98,
+    "liftRodLength": 0.98,
+    "parts": {
+      "lift_barrel": "zs_lift_barrel_long",
+      "lift_rod": "zs_lift_rod_long"
+    },
+    "interactDistance": 6,
+    "maxTargetDistance": 9
+  },
+  "nathankr": {
+    "mount": {
+      "x": 0.0,
+      "y": -2.33932,
+      "z": -0.84052
+    },
+    "minLift": 0,
+    "maxLift": 1,
+    "loadedMaxLift": 0.493829,
+    "stowLift": 0.8,
+    "liftTravel": 1.214995,
+    "releaseLift": 0.02,
+    "calibrated": true,
+    "fitted": true,
+    "pump": {
+      "x": 0.0,
+      "y": -0.65,
+      "z": 1.17
+    },
+    "liftBarrelLength": 0.98,
+    "liftRodLength": 0.98,
+    "parts": {
+      "lift_barrel": "zs_lift_barrel_long",
+      "lift_rod": "zs_lift_rod_long"
+    },
+    "interactDistance": 6.339,
+    "maxTargetDistance": 9.339
+  },
+  "nathanl5p": {
+    "mount": {
+      "x": 0.0,
+      "y": -1.77364,
+      "z": -0.60102
+    },
+    "minLift": 0,
+    "maxLift": 1,
+    "loadedMaxLift": 0.672326,
+    "stowLift": 0.8,
+    "liftTravel": 0.892424,
+    "releaseLift": 0.02,
+    "calibrated": true,
+    "fitted": true,
+    "pump": {
+      "x": 0.0,
+      "y": -0.65,
+      "z": 1.17
+    },
+    "liftBarrelLength": 0.98,
+    "liftRodLength": 0.98,
+    "parts": {
+      "lift_barrel": "zs_lift_barrel_long",
+      "lift_rod": "zs_lift_rod_long"
+    },
+    "interactDistance": 6,
+    "maxTargetDistance": 9
+  },
+  "nathanlandenv2": {
+    "mount": {
+      "x": 0.0,
+      "y": -2.44393,
+      "z": -0.57975
+    },
+    "minLift": 0,
+    "maxLift": 1,
+    "loadedMaxLift": 0.611109,
+    "stowLift": 0.8,
+    "liftTravel": 0.981822,
+    "releaseLift": 0.02,
+    "calibrated": true,
+    "fitted": true,
+    "pump": {
+      "x": 0.0,
+      "y": -0.65,
+      "z": 1.17
+    },
+    "liftBarrelLength": 0.98,
+    "liftRodLength": 0.98,
+    "parts": {
+      "lift_barrel": "zs_lift_barrel_long",
+      "lift_rod": "zs_lift_rod_long"
+    },
+    "interactDistance": 6.444,
+    "maxTargetDistance": 9.444
+  },
+  "nathanlmm": {
+    "mount": {
+      "x": 0.0,
+      "y": -1.9071,
+      "z": -0.42073
+    },
+    "minLift": 0,
+    "maxLift": 1,
+    "loadedMaxLift": 0.560362,
+    "stowLift": 0.8,
+    "liftTravel": 1.070736,
+    "releaseLift": 0.02,
+    "calibrated": true,
+    "fitted": true,
+    "pump": {
+      "x": 0.0,
+      "y": -0.65,
+      "z": 1.17
+    },
+    "liftBarrelLength": 0.98,
+    "liftRodLength": 0.98,
+    "parts": {
+      "lift_barrel": "zs_lift_barrel_long",
+      "lift_rod": "zs_lift_rod_long"
+    },
+    "interactDistance": 6,
+    "maxTargetDistance": 9
+  },
+  "nathanlonghorn": {
+    "mount": {
+      "x": 0.0,
+      "y": -2.18058,
+      "z": -0.41393
+    },
+    "minLift": 0,
+    "maxLift": 1,
+    "loadedMaxLift": 0.517732,
+    "stowLift": 0.8,
+    "liftTravel": 1.158901,
+    "releaseLift": 0.02,
+    "calibrated": true,
+    "fitted": true,
+    "pump": {
+      "x": 0.0,
+      "y": -0.65,
+      "z": 1.17
+    },
+    "liftBarrelLength": 0.98,
+    "liftRodLength": 0.98,
+    "parts": {
+      "lift_barrel": "zs_lift_barrel_long",
+      "lift_rod": "zs_lift_rod_long"
+    },
+    "interactDistance": 6.181,
+    "maxTargetDistance": 9.181
+  },
+  "nathanlow2g": {
+    "mount": {
+      "x": 0.0,
+      "y": -1.32661,
+      "z": -0.26103
+    },
+    "minLift": 0,
+    "maxLift": 1,
+    "loadedMaxLift": 0.847524,
+    "stowLift": 0.8,
+    "liftTravel": 0.707945,
+    "releaseLift": 0.02,
+    "calibrated": true,
+    "fitted": true,
+    "pump": {
+      "x": 0.0,
+      "y": -0.65,
+      "z": 1.17
+    },
+    "interactDistance": 6,
+    "maxTargetDistance": 9
+  },
+  "nathanmini": {
+    "mount": {
+      "x": 0.0,
+      "y": -0.78428,
+      "z": -0.59638
+    },
+    "minLift": 0,
+    "maxLift": 1,
+    "loadedMaxLift": 0.901785,
+    "stowLift": 0.8,
+    "liftTravel": 0.665347,
+    "releaseLift": 0.02,
+    "calibrated": true,
+    "fitted": true,
+    "pump": {
+      "x": 0.0,
+      "y": -0.65,
+      "z": 1.17
+    },
+    "interactDistance": 6,
+    "maxTargetDistance": 9
+  },
+  "nathanmitchv3": {
+    "mount": {
+      "x": 0.0,
+      "y": -3.83485,
+      "z": -0.98484
+    },
+    "minLift": 0,
+    "maxLift": 1,
+    "loadedMaxLift": 0.551323,
+    "stowLift": 0.8,
+    "liftTravel": 1.088291,
+    "releaseLift": 0.02,
+    "calibrated": true,
+    "fitted": true,
+    "pump": {
+      "x": 0.0,
+      "y": -0.65,
+      "z": 1.17
+    },
+    "liftBarrelLength": 0.98,
+    "liftRodLength": 0.98,
+    "parts": {
+      "lift_barrel": "zs_lift_barrel_long",
+      "lift_rod": "zs_lift_rod_long"
+    },
+    "interactDistance": 7.835,
+    "maxTargetDistance": 10.835
+  },
+  "nathanob": {
+    "mount": {
+      "x": 0.0,
+      "y": -2.50607,
+      "z": -0.71446
+    },
+    "minLift": 0,
+    "maxLift": 1,
+    "loadedMaxLift": 0.530178,
+    "stowLift": 0.8,
+    "liftTravel": 1.131696,
+    "releaseLift": 0.02,
+    "calibrated": true,
+    "fitted": true,
+    "pump": {
+      "x": 0.0,
+      "y": -0.65,
+      "z": 1.17
+    },
+    "liftBarrelLength": 0.98,
+    "liftRodLength": 0.98,
+    "parts": {
+      "lift_barrel": "zs_lift_barrel_long",
+      "lift_rod": "zs_lift_rod_long"
+    },
+    "interactDistance": 6.506,
+    "maxTargetDistance": 9.506
+  },
+  "nathanobsford": {
+    "mount": {
+      "x": 0.0,
+      "y": -1.77511,
+      "z": -0.67168
+    },
+    "minLift": 0,
+    "maxLift": 1,
+    "loadedMaxLift": 0.791595,
+    "stowLift": 0.8,
+    "liftTravel": 0.757963,
+    "releaseLift": 0.02,
+    "calibrated": true,
+    "fitted": true,
+    "pump": {
+      "x": 0.0,
+      "y": -0.65,
+      "z": 1.17
+    },
+    "liftBarrelLength": 0.98,
+    "liftRodLength": 0.98,
+    "parts": {
+      "lift_barrel": "zs_lift_barrel_long",
+      "lift_rod": "zs_lift_rod_long"
+    },
+    "interactDistance": 6,
+    "maxTargetDistance": 9
+  },
+  "nathanownboss": {
+    "mount": {
+      "x": 0,
+      "y": -2.35,
+      "z": -0.14
+    },
+    "minLift": 0,
+    "maxLift": 0.65,
+    "loadedMaxLift": 0.9,
+    "pickupPitch": 2.114304693,
+    "pickupBlendLift": 0.15,
+    "releaseLift": 0.02,
+    "calibrated": true,
+    "fitted": true
+  },
+  "nathanpete379": {
+    "mount": {
+      "x": 0.0,
+      "y": -3.94292,
+      "z": -0.92493
+    },
+    "minLift": 0,
+    "maxLift": 1,
+    "loadedMaxLift": 1.0,
+    "stowLift": 0.371044,
+    "liftTravel": 0.6,
+    "releaseLift": 0.02,
+    "calibrated": true,
+    "fitted": true,
+    "pump": {
+      "x": 0.0,
+      "y": -0.65,
+      "z": 1.17
+    },
+    "interactDistance": 7.943,
+    "maxTargetDistance": 10.943
+  },
+  "nathanpete": {
+    "mount": {
+      "x": 0.0,
+      "y": -4.53218,
+      "z": -1.01211
+    },
+    "minLift": 0,
+    "maxLift": 1,
+    "loadedMaxLift": 1.0,
+    "stowLift": 0.629339,
+    "liftTravel": 0.6,
+    "releaseLift": 0.02,
+    "calibrated": true,
+    "fitted": true,
+    "pump": {
+      "x": 0.0,
+      "y": -0.65,
+      "z": 1.17
+    },
+    "interactDistance": 8.532,
+    "maxTargetDistance": 11.532
+  },
+  "nathanplati": {
+    "mount": {
+      "x": 0.0,
+      "y": -1.89845,
+      "z": -0.61678
+    },
+    "minLift": 0,
+    "maxLift": 1,
+    "loadedMaxLift": 0.540182,
+    "stowLift": 0.8,
+    "liftTravel": 1.110738,
+    "releaseLift": 0.02,
+    "calibrated": true,
+    "fitted": true,
+    "pump": {
+      "x": 0.0,
+      "y": -0.65,
+      "z": 1.17
+    },
+    "liftBarrelLength": 0.98,
+    "liftRodLength": 0.98,
+    "parts": {
+      "lift_barrel": "zs_lift_barrel_long",
+      "lift_rod": "zs_lift_rod_long"
+    },
+    "interactDistance": 6,
+    "maxTargetDistance": 9
+  },
+  "nathanpurge": {
+    "mount": {
+      "x": 0.0,
+      "y": -1.67383,
+      "z": -1.0046
+    },
+    "minLift": 0,
+    "maxLift": 1,
+    "loadedMaxLift": 0.580079,
+    "stowLift": 0.8,
+    "liftTravel": 1.034342,
+    "releaseLift": 0.02,
+    "calibrated": true,
+    "fitted": true,
+    "pump": {
+      "x": 0.0,
+      "y": -0.65,
+      "z": 1.17
+    },
+    "liftBarrelLength": 0.98,
+    "liftRodLength": 0.98,
+    "parts": {
+      "lift_barrel": "zs_lift_barrel_long",
+      "lift_rod": "zs_lift_rod_long"
+    },
+    "interactDistance": 6,
+    "maxTargetDistance": 9
+  },
+  "nathanranch": {
+    "mount": {
+      "x": 0.0,
+      "y": -2.33932,
+      "z": -0.89512
+    },
+    "minLift": 0,
+    "maxLift": 1,
+    "loadedMaxLift": 0.478332,
+    "stowLift": 0.8,
+    "liftTravel": 1.254359,
+    "releaseLift": 0.02,
+    "calibrated": true,
+    "fitted": true,
+    "pump": {
+      "x": 0.0,
+      "y": -0.65,
+      "z": 1.17
+    },
+    "liftBarrelLength": 0.98,
+    "liftRodLength": 0.98,
+    "parts": {
+      "lift_barrel": "zs_lift_barrel_long",
+      "lift_rod": "zs_lift_rod_long"
+    },
+    "interactDistance": 6.339,
+    "maxTargetDistance": 9.339
+  },
+  "nathanranger": {
+    "mount": {
+      "x": 0.0,
+      "y": -1.60949,
+      "z": -0.38615
+    },
+    "minLift": 0,
+    "maxLift": 1,
+    "loadedMaxLift": 0.667574,
+    "stowLift": 0.8,
+    "liftTravel": 0.898776,
+    "releaseLift": 0.02,
+    "calibrated": true,
+    "fitted": true,
+    "pump": {
+      "x": 0.0,
+      "y": -0.65,
+      "z": 1.17
+    },
+    "liftBarrelLength": 0.98,
+    "liftRodLength": 0.98,
+    "parts": {
+      "lift_barrel": "zs_lift_barrel_long",
+      "lift_rod": "zs_lift_rod_long"
+    },
+    "interactDistance": 6,
+    "maxTargetDistance": 9
+  },
+  "nathanraptor": {
+    "mount": {
+      "x": 0.0,
+      "y": -1.77385,
+      "z": -0.57255
+    },
+    "minLift": 0,
+    "maxLift": 1,
+    "loadedMaxLift": 0.985567,
+    "stowLift": 0.8,
+    "liftTravel": 0.608786,
+    "releaseLift": 0.02,
+    "calibrated": true,
+    "fitted": true,
+    "pump": {
+      "x": 0.0,
+      "y": -0.65,
+      "z": 1.17
+    },
+    "interactDistance": 6,
+    "maxTargetDistance": 9
+  },
+  "nathanredneck": {
+    "mount": {
+      "x": 0.0,
+      "y": -1.57114,
+      "z": -0.42137
+    },
+    "minLift": 0,
+    "maxLift": 1,
+    "loadedMaxLift": 0.677704,
+    "stowLift": 0.8,
+    "liftTravel": 0.885342,
+    "releaseLift": 0.02,
+    "calibrated": true,
+    "fitted": true,
+    "pump": {
+      "x": 0.0,
+      "y": -0.65,
+      "z": 1.17
+    },
+    "liftBarrelLength": 0.98,
+    "liftRodLength": 0.98,
+    "parts": {
+      "lift_barrel": "zs_lift_barrel_long",
+      "lift_rod": "zs_lift_rod_long"
+    },
+    "interactDistance": 6,
+    "maxTargetDistance": 9
+  },
+  "nathanrem4g": {
+    "mount": {
+      "x": 0.0,
+      "y": -1.83625,
+      "z": -0.33683
+    },
+    "minLift": 0,
+    "maxLift": 1,
+    "loadedMaxLift": 0.564053,
+    "stowLift": 0.8,
+    "liftTravel": 1.06373,
+    "releaseLift": 0.02,
+    "calibrated": true,
+    "fitted": true,
+    "pump": {
+      "x": 0.0,
+      "y": -0.65,
+      "z": 1.17
+    },
+    "liftBarrelLength": 0.98,
+    "liftRodLength": 0.98,
+    "parts": {
+      "lift_barrel": "zs_lift_barrel_long",
+      "lift_rod": "zs_lift_rod_long"
+    },
+    "interactDistance": 6,
+    "maxTargetDistance": 9
+  },
+  "nathanrollsranch": {
+    "mount": {
+      "x": 0.0,
+      "y": -1.90395,
+      "z": -0.43243
+    },
+    "minLift": 0,
+    "maxLift": 1,
+    "loadedMaxLift": 0.660117,
+    "stowLift": 0.8,
+    "liftTravel": 0.90893,
+    "releaseLift": 0.02,
+    "calibrated": true,
+    "fitted": true,
+    "pump": {
+      "x": 0.0,
+      "y": -0.65,
+      "z": 1.17
+    },
+    "liftBarrelLength": 0.98,
+    "liftRodLength": 0.98,
+    "parts": {
+      "lift_barrel": "zs_lift_barrel_long",
+      "lift_rod": "zs_lift_rod_long"
+    },
+    "interactDistance": 6,
+    "maxTargetDistance": 9
+  },
+  "nathanround": {
+    "mount": {
+      "x": 0.0,
+      "y": -1.96298,
+      "z": -0.50599
+    },
+    "minLift": 0,
+    "maxLift": 1,
+    "loadedMaxLift": 0.832028,
+    "stowLift": 0.8,
+    "liftTravel": 0.721129,
+    "releaseLift": 0.02,
+    "calibrated": true,
+    "fitted": true,
+    "pump": {
+      "x": 0.0,
+      "y": -0.65,
+      "z": 1.17
+    },
+    "liftBarrelLength": 0.98,
+    "liftRodLength": 0.98,
+    "parts": {
+      "lift_barrel": "zs_lift_barrel_long",
+      "lift_rod": "zs_lift_rod_long"
+    },
+    "interactDistance": 6,
+    "maxTargetDistance": 9
+  },
+  "nathanroundbub": {
+    "mount": {
+      "x": 0.0,
+      "y": -1.68778,
+      "z": -0.30848
+    },
+    "minLift": 0,
+    "maxLift": 1,
+    "loadedMaxLift": 0.753293,
+    "stowLift": 0.8,
+    "liftTravel": 0.796503,
+    "releaseLift": 0.02,
+    "calibrated": true,
+    "fitted": true,
+    "pump": {
+      "x": 0.0,
+      "y": -0.65,
+      "z": 1.17
+    },
+    "liftBarrelLength": 0.98,
+    "liftRodLength": 0.98,
+    "parts": {
+      "lift_barrel": "zs_lift_barrel_long",
+      "lift_rod": "zs_lift_rod_long"
+    },
+    "interactDistance": 6,
+    "maxTargetDistance": 9
+  },
+  "nathanscreamin6oh": {
+    "mount": {
+      "x": 0.0,
+      "y": -1.67636,
+      "z": -0.85466
+    },
+    "minLift": 0,
+    "maxLift": 1,
+    "loadedMaxLift": 0.639486,
+    "stowLift": 0.8,
+    "liftTravel": 0.938253,
+    "releaseLift": 0.02,
+    "calibrated": true,
+    "fitted": true,
+    "pump": {
+      "x": 0.0,
+      "y": -0.65,
+      "z": 1.17
+    },
+    "liftBarrelLength": 0.98,
+    "liftRodLength": 0.98,
+    "parts": {
+      "lift_barrel": "zs_lift_barrel_long",
+      "lift_rod": "zs_lift_rod_long"
+    },
+    "interactDistance": 6,
+    "maxTargetDistance": 9
+  },
+  "nathansemalimited": {
+    "mount": {
+      "x": 0.0,
+      "y": -2.36657,
+      "z": -1.04908
+    },
+    "minLift": 0,
+    "maxLift": 1,
+    "loadedMaxLift": 0.525929,
+    "stowLift": 0.8,
+    "liftTravel": 1.140838,
+    "releaseLift": 0.02,
+    "calibrated": true,
+    "fitted": true,
+    "pump": {
+      "x": 0.0,
+      "y": -0.65,
+      "z": 1.17
+    },
+    "liftBarrelLength": 0.98,
+    "liftRodLength": 0.98,
+    "parts": {
+      "lift_barrel": "zs_lift_barrel_long",
+      "lift_rod": "zs_lift_rod_long"
+    },
+    "interactDistance": 6.367,
+    "maxTargetDistance": 9.367
+  },
+  "nathansfp4g": {
+    "mount": {
+      "x": 0.0,
+      "y": -2.06918,
+      "z": -0.42064
+    },
+    "minLift": 0,
+    "maxLift": 1,
+    "loadedMaxLift": 0.522525,
+    "stowLift": 0.8,
+    "liftTravel": 1.148271,
+    "releaseLift": 0.02,
+    "calibrated": true,
+    "fitted": true,
+    "pump": {
+      "x": 0.0,
+      "y": -0.65,
+      "z": 1.17
+    },
+    "liftBarrelLength": 0.98,
+    "liftRodLength": 0.98,
+    "parts": {
+      "lift_barrel": "zs_lift_barrel_long",
+      "lift_rod": "zs_lift_rod_long"
+    },
+    "interactDistance": 6.069,
+    "maxTargetDistance": 9.069
+  },
+  "nathansfp5g": {
+    "mount": {
+      "x": 0.0,
+      "y": -2.07925,
+      "z": -0.94414
+    },
+    "minLift": 0,
+    "maxLift": 1,
+    "loadedMaxLift": 0.872741,
+    "stowLift": 0.8,
+    "liftTravel": 0.687489,
+    "releaseLift": 0.02,
+    "calibrated": true,
+    "fitted": true,
+    "pump": {
+      "x": 0.0,
+      "y": -0.65,
+      "z": 1.17
+    },
+    "interactDistance": 6.079,
+    "maxTargetDistance": 9.079
+  },
+  "nathanshelby1": {
+    "mount": {
+      "x": 0.0,
+      "y": -1.22166,
+      "z": 0.0426
+    },
+    "minLift": 0,
+    "maxLift": 1,
+    "loadedMaxLift": 0.823047,
+    "stowLift": 0.8,
+    "liftTravel": 0.728999,
+    "releaseLift": 0.02,
+    "calibrated": true,
+    "fitted": true,
+    "pump": {
+      "x": 0.0,
+      "y": -0.65,
+      "z": 1.17
+    },
+    "liftBarrelLength": 0.98,
+    "liftRodLength": 0.98,
+    "parts": {
+      "lift_barrel": "zs_lift_barrel_long",
+      "lift_rod": "zs_lift_rod_long"
+    },
+    "interactDistance": 6,
+    "maxTargetDistance": 9
+  },
+  "nathanshelby": {
+    "mount": {
+      "x": 0.0,
+      "y": -1.2135,
+      "z": 0.04635
+    },
+    "minLift": 0,
+    "maxLift": 1,
+    "loadedMaxLift": 0.835292,
+    "stowLift": 0.8,
+    "liftTravel": 0.718311,
+    "releaseLift": 0.02,
+    "calibrated": true,
+    "fitted": true,
+    "pump": {
+      "x": 0.0,
+      "y": -0.65,
+      "z": 1.17
+    },
+    "interactDistance": 6,
+    "maxTargetDistance": 9
+  },
+  "nathansocal6g": {
+    "mount": {
+      "x": 0.0,
+      "y": -1.94576,
+      "z": -0.52989
+    },
+    "minLift": 0,
+    "maxLift": 1,
+    "loadedMaxLift": 0.732533,
+    "stowLift": 0.8,
+    "liftTravel": 0.819076,
+    "releaseLift": 0.02,
+    "calibrated": true,
+    "fitted": true,
+    "pump": {
+      "x": 0.0,
+      "y": -0.65,
+      "z": 1.17
+    },
+    "liftBarrelLength": 0.98,
+    "liftRodLength": 0.98,
+    "parts": {
+      "lift_barrel": "zs_lift_barrel_long",
+      "lift_rod": "zs_lift_rod_long"
+    },
+    "interactDistance": 6,
+    "maxTargetDistance": 9
+  },
+  "nathansquare": {
+    "mount": {
+      "x": 0.0,
+      "y": -1.99003,
+      "z": -0.75795
+    },
+    "minLift": 0,
+    "maxLift": 1,
+    "loadedMaxLift": 0.581523,
+    "stowLift": 0.8,
+    "liftTravel": 1.031773,
+    "releaseLift": 0.02,
+    "calibrated": true,
+    "fitted": true,
+    "pump": {
+      "x": 0.0,
+      "y": -0.65,
+      "z": 1.17
+    },
+    "liftBarrelLength": 0.98,
+    "liftRodLength": 0.98,
+    "parts": {
+      "lift_barrel": "zs_lift_barrel_long",
+      "lift_rod": "zs_lift_rod_long"
+    },
+    "interactDistance": 6,
+    "maxTargetDistance": 9
+  },
+  "nathansquat": {
+    "mount": {
+      "x": 0.0,
+      "y": -1.00857,
+      "z": -2.16835
+    },
+    "minLift": 0,
+    "maxLift": 1,
+    "loadedMaxLift": 0.330937,
+    "stowLift": 0.8,
+    "liftTravel": 1.813032,
+    "releaseLift": 0.02,
+    "calibrated": true,
+    "fitted": true,
+    "pump": {
+      "x": 0.0,
+      "y": -0.65,
+      "z": 1.17
+    },
+    "liftBarrelLength": 0.98,
+    "liftRodLength": 0.98,
+    "parts": {
+      "lift_barrel": "zs_lift_barrel_long",
+      "lift_rod": "zs_lift_rod_long"
+    },
+    "interactDistance": 6,
+    "maxTargetDistance": 9
+  },
+  "nathanss": {
+    "mount": {
+      "x": 0.0,
+      "y": -2.00704,
+      "z": 0.00752
+    },
+    "minLift": 0,
+    "maxLift": 1,
+    "loadedMaxLift": 0.761811,
+    "stowLift": 0.8,
+    "liftTravel": 0.787597,
+    "releaseLift": 0.02,
+    "calibrated": true,
+    "fitted": true,
+    "pump": {
+      "x": 0.0,
+      "y": -0.65,
+      "z": 1.17
+    },
+    "liftBarrelLength": 0.98,
+    "liftRodLength": 0.98,
+    "parts": {
+      "lift_barrel": "zs_lift_barrel_long",
+      "lift_rod": "zs_lift_rod_long"
+    },
+    "interactDistance": 6.007,
+    "maxTargetDistance": 9.007
+  },
+  "nathansteel2": {
+    "mount": {
+      "x": 0.0,
+      "y": -2.01564,
+      "z": -0.59492
+    },
+    "minLift": 0,
+    "maxLift": 1,
+    "loadedMaxLift": 0.946499,
+    "stowLift": 0.8,
+    "liftTravel": 0.633915,
+    "releaseLift": 0.02,
+    "calibrated": true,
+    "fitted": true,
+    "pump": {
+      "x": 0.0,
+      "y": -0.65,
+      "z": 1.17
+    },
+    "interactDistance": 6.016,
+    "maxTargetDistance": 9.016
+  },
+  "nathansteel": {
+    "mount": {
+      "x": 0.0,
+      "y": -1.89142,
+      "z": -0.49947
+    },
+    "minLift": 0,
+    "maxLift": 1,
+    "loadedMaxLift": 1.0,
+    "stowLift": 0.614351,
+    "liftTravel": 0.6,
+    "releaseLift": 0.02,
+    "calibrated": true,
+    "fitted": true,
+    "pump": {
+      "x": 0.0,
+      "y": -0.65,
+      "z": 1.17
+    },
+    "interactDistance": 6,
+    "maxTargetDistance": 9
+  },
+  "nathansteelbub": {
+    "mount": {
+      "x": 0.0,
+      "y": -1.89898,
+      "z": -0.59518
+    },
+    "minLift": 0,
+    "maxLift": 1,
+    "loadedMaxLift": 0.559588,
+    "stowLift": 0.8,
+    "liftTravel": 1.072217,
+    "releaseLift": 0.02,
+    "calibrated": true,
+    "fitted": true,
+    "pump": {
+      "x": 0.0,
+      "y": -0.65,
+      "z": 1.17
+    },
+    "liftBarrelLength": 0.98,
+    "liftRodLength": 0.98,
+    "parts": {
+      "lift_barrel": "zs_lift_barrel_long",
+      "lift_rod": "zs_lift_rod_long"
+    },
+    "interactDistance": 6,
+    "maxTargetDistance": 9
+  },
+  "nathansteeldump": {
+    "mount": {
+      "x": 0.0,
+      "y": -3.46889,
+      "z": -0.67368
+    },
+    "minLift": 0,
+    "maxLift": 1,
+    "loadedMaxLift": 1.0,
+    "stowLift": 0.35,
+    "liftTravel": 0.6,
+    "releaseLift": 0.02,
+    "calibrated": true,
+    "fitted": true,
+    "pump": {
+      "x": 0.0,
+      "y": -0.65,
+      "z": 1.17
+    },
+    "interactDistance": 7.469,
+    "maxTargetDistance": 10.469
+  },
+  "nathansteelplat": {
+    "mount": {
+      "x": 0.0,
+      "y": -1.89773,
+      "z": -0.52739
+    },
+    "minLift": 0,
+    "maxLift": 1,
+    "loadedMaxLift": 1.0,
+    "stowLift": 0.578417,
+    "liftTravel": 0.6,
+    "releaseLift": 0.02,
+    "calibrated": true,
+    "fitted": true,
+    "pump": {
+      "x": 0.0,
+      "y": -0.65,
+      "z": 1.17
+    },
+    "interactDistance": 6,
+    "maxTargetDistance": 9
+  },
+  "nathansteelv2": {
+    "mount": {
+      "x": 0.0,
+      "y": -2.01564,
+      "z": -0.61587
+    },
+    "minLift": 0,
+    "maxLift": 1,
+    "loadedMaxLift": 0.909234,
+    "stowLift": 0.8,
+    "liftTravel": 0.659896,
+    "releaseLift": 0.02,
+    "calibrated": true,
+    "fitted": true,
+    "pump": {
+      "x": 0.0,
+      "y": -0.65,
+      "z": 1.17
+    },
+    "interactDistance": 6.016,
+    "maxTargetDistance": 9.016
+  },
+  "nathansteelyard": {
+    "mount": {
+      "x": 0.0,
+      "y": -4.62249,
+      "z": -0.69955
+    },
+    "minLift": 0,
+    "maxLift": 1,
+    "loadedMaxLift": 0.88196,
+    "stowLift": 0.8,
+    "liftTravel": 0.680303,
+    "releaseLift": 0.02,
+    "calibrated": true,
+    "fitted": true,
+    "pump": {
+      "x": 0.0,
+      "y": -0.65,
+      "z": 1.17
+    },
+    "interactDistance": 8.622,
+    "maxTargetDistance": 11.622
+  },
+  "nathanstreet64": {
+    "mount": {
+      "x": 0.0,
+      "y": -2.03423,
+      "z": -0.42073
+    },
+    "minLift": 0,
+    "maxLift": 1,
+    "loadedMaxLift": 0.72249,
+    "stowLift": 0.8,
+    "liftTravel": 0.830462,
+    "releaseLift": 0.02,
+    "calibrated": true,
+    "fitted": true,
+    "pump": {
+      "x": 0.0,
+      "y": -0.65,
+      "z": 1.17
+    },
+    "liftBarrelLength": 0.98,
+    "liftRodLength": 0.98,
+    "parts": {
+      "lift_barrel": "zs_lift_barrel_long",
+      "lift_rod": "zs_lift_rod_long"
+    },
+    "interactDistance": 6.034,
+    "maxTargetDistance": 9.034
+  },
+  "nathanstreet67": {
+    "mount": {
+      "x": 0.0,
+      "y": -2.36734,
+      "z": -0.64089
+    },
+    "minLift": 0,
+    "maxLift": 1,
+    "loadedMaxLift": 0.908901,
+    "stowLift": 0.8,
+    "liftTravel": 0.660138,
+    "releaseLift": 0.02,
+    "calibrated": true,
+    "fitted": true,
+    "pump": {
+      "x": 0.0,
+      "y": -0.65,
+      "z": 1.17
+    },
+    "interactDistance": 6.367,
+    "maxTargetDistance": 9.367
+  },
+  "nathanstreet6g": {
+    "mount": {
+      "x": 0.0,
+      "y": -1.99165,
+      "z": -0.94767
+    },
+    "minLift": 0,
+    "maxLift": 1,
+    "loadedMaxLift": 0.507992,
+    "stowLift": 0.8,
+    "liftTravel": 1.18112,
+    "releaseLift": 0.02,
+    "calibrated": true,
+    "fitted": true,
+    "pump": {
+      "x": 0.0,
+      "y": -0.65,
+      "z": 1.17
+    },
+    "liftBarrelLength": 0.98,
+    "liftRodLength": 0.98,
+    "parts": {
+      "lift_barrel": "zs_lift_barrel_long",
+      "lift_rod": "zs_lift_rod_long"
+    },
+    "interactDistance": 6,
+    "maxTargetDistance": 9
+  },
+  "nathanstreet6oh": {
+    "mount": {
+      "x": 0.0,
+      "y": -1.6683,
+      "z": -0.62402
+    },
+    "minLift": 0,
+    "maxLift": 1,
+    "loadedMaxLift": 0.694282,
+    "stowLift": 0.8,
+    "liftTravel": 0.864203,
+    "releaseLift": 0.02,
+    "calibrated": true,
+    "fitted": true,
+    "pump": {
+      "x": 0.0,
+      "y": -0.65,
+      "z": 1.17
+    },
+    "liftBarrelLength": 0.98,
+    "liftRodLength": 0.98,
+    "parts": {
+      "lift_barrel": "zs_lift_barrel_long",
+      "lift_rod": "zs_lift_rod_long"
+    },
+    "interactDistance": 6,
+    "maxTargetDistance": 9
+  },
+  "nathanstreetcat": {
+    "mount": {
+      "x": 0.0,
+      "y": -1.89197,
+      "z": -0.69736
+    },
+    "minLift": 0,
+    "maxLift": 1,
+    "loadedMaxLift": 1.0,
+    "stowLift": 0.697332,
+    "liftTravel": 0.6,
+    "releaseLift": 0.02,
+    "calibrated": true,
+    "fitted": true,
+    "pump": {
+      "x": 0.0,
+      "y": -0.65,
+      "z": 1.17
+    },
+    "interactDistance": 6,
+    "maxTargetDistance": 9
+  },
+  "nathantcan4g": {
+    "mount": {
+      "x": 0.0,
+      "y": -1.86171,
+      "z": -0.39391
+    },
+    "minLift": 0,
+    "maxLift": 1,
+    "loadedMaxLift": 0.791352,
+    "stowLift": 0.8,
+    "liftTravel": 0.758196,
+    "releaseLift": 0.02,
+    "calibrated": true,
+    "fitted": true,
+    "pump": {
+      "x": 0.0,
+      "y": -0.65,
+      "z": 1.17
+    },
+    "liftBarrelLength": 0.98,
+    "liftRodLength": 0.98,
+    "parts": {
+      "lift_barrel": "zs_lift_barrel_long",
+      "lift_rod": "zs_lift_rod_long"
+    },
+    "interactDistance": 6,
+    "maxTargetDistance": 9
+  },
+  "nathanutil4g": {
+    "mount": {
+      "x": 0.0,
+      "y": -3.1923,
+      "z": -0.56721
+    },
+    "minLift": 0,
+    "maxLift": 1,
+    "loadedMaxLift": 0.466672,
+    "stowLift": 0.8,
+    "liftTravel": 1.285699,
+    "releaseLift": 0.02,
+    "calibrated": true,
+    "fitted": true,
+    "pump": {
+      "x": 0.0,
+      "y": -0.65,
+      "z": 1.17
+    },
+    "liftBarrelLength": 0.98,
+    "liftRodLength": 0.98,
+    "parts": {
+      "lift_barrel": "zs_lift_barrel_long",
+      "lift_rod": "zs_lift_rod_long"
+    },
+    "interactDistance": 7.192,
+    "maxTargetDistance": 10.192
+  },
+  "nathanutilcat": {
+    "mount": {
+      "x": 0.0,
+      "y": -2.40059,
+      "z": -0.67247
+    },
+    "minLift": 0,
+    "maxLift": 1,
+    "loadedMaxLift": 0.720139,
+    "stowLift": 0.8,
+    "liftTravel": 0.833173,
+    "releaseLift": 0.02,
+    "calibrated": true,
+    "fitted": true,
+    "pump": {
+      "x": 0.0,
+      "y": -0.65,
+      "z": 1.17
+    },
+    "liftBarrelLength": 0.98,
+    "liftRodLength": 0.98,
+    "parts": {
+      "lift_barrel": "zs_lift_barrel_long",
+      "lift_rod": "zs_lift_rod_long"
+    },
+    "interactDistance": 6.401,
+    "maxTargetDistance": 9.401
+  },
+  "nathanutilf450": {
+    "mount": {
+      "x": 0.0,
+      "y": -2.58277,
+      "z": -0.6954
+    },
+    "minLift": 0,
+    "maxLift": 1,
+    "loadedMaxLift": 0.836579,
+    "stowLift": 0.8,
+    "liftTravel": 0.717207,
+    "releaseLift": 0.02,
+    "calibrated": true,
+    "fitted": true,
+    "pump": {
+      "x": 0.0,
+      "y": -0.65,
+      "z": 1.17
+    },
+    "interactDistance": 6.583,
+    "maxTargetDistance": 9.583
+  },
+  "nathanutill5p": {
+    "mount": {
+      "x": 0.0,
+      "y": -2.32461,
+      "z": -0.67247
+    },
+    "minLift": 0,
+    "maxLift": 1,
+    "loadedMaxLift": 0.858338,
+    "stowLift": 0.8,
+    "liftTravel": 0.699025,
+    "releaseLift": 0.02,
+    "calibrated": true,
+    "fitted": true,
+    "pump": {
+      "x": 0.0,
+      "y": -0.65,
+      "z": 1.17
+    },
+    "interactDistance": 6.325,
+    "maxTargetDistance": 9.325
+  },
+  "nathanwall": {
+    "mount": {
+      "x": 0.0,
+      "y": -2.17513,
+      "z": -0.75462
+    },
+    "minLift": 0,
+    "maxLift": 1,
+    "loadedMaxLift": 0.459392,
+    "stowLift": 0.8,
+    "liftTravel": 1.306075,
+    "releaseLift": 0.02,
+    "calibrated": true,
+    "fitted": true,
+    "pump": {
+      "x": 0.0,
+      "y": -0.65,
+      "z": 1.17
+    },
+    "liftBarrelLength": 0.98,
+    "liftRodLength": 0.98,
+    "parts": {
+      "lift_barrel": "zs_lift_barrel_long",
+      "lift_rod": "zs_lift_rod_long"
+    },
+    "interactDistance": 6.175,
+    "maxTargetDistance": 9.175
+  },
+  "nathanwd3g": {
+    "mount": {
+      "x": 0.0,
+      "y": -2.0052,
+      "z": -0.52945
+    },
+    "minLift": 0,
+    "maxLift": 1,
+    "loadedMaxLift": 0.946796,
+    "stowLift": 0.8,
+    "liftTravel": 0.633716,
+    "releaseLift": 0.02,
+    "calibrated": true,
+    "fitted": true,
+    "pump": {
+      "x": 0.0,
+      "y": -0.65,
+      "z": 1.17
+    },
+    "interactDistance": 6.005,
+    "maxTargetDistance": 9.005
+  },
+  "nathanwes1500": {
+    "mount": {
+      "x": 0.0,
+      "y": -2.43273,
+      "z": -0.81832
+    },
+    "minLift": 0,
+    "maxLift": 1,
+    "loadedMaxLift": 1.0,
+    "stowLift": 0.775785,
+    "liftTravel": 0.6,
+    "releaseLift": 0.02,
+    "calibrated": true,
+    "fitted": true,
+    "pump": {
+      "x": 0.0,
+      "y": -0.65,
+      "z": 1.17
+    },
+    "interactDistance": 6.433,
+    "maxTargetDistance": 9.433
+  },
+  "nathanwesv10": {
+    "mount": {
+      "x": 0.0,
+      "y": -2.38998,
+      "z": -0.87719
+    },
+    "minLift": 0,
+    "maxLift": 1,
+    "loadedMaxLift": 0.68913,
+    "stowLift": 0.8,
+    "liftTravel": 0.870663,
+    "releaseLift": 0.02,
+    "calibrated": true,
+    "fitted": true,
+    "pump": {
+      "x": 0.0,
+      "y": -0.65,
+      "z": 1.17
+    },
+    "liftBarrelLength": 0.98,
+    "liftRodLength": 0.98,
+    "parts": {
+      "lift_barrel": "zs_lift_barrel_long",
+      "lift_rod": "zs_lift_rod_long"
+    },
+    "interactDistance": 6.39,
+    "maxTargetDistance": 9.39
+  },
+  "nathanwesv14": {
+    "mount": {
+      "x": 0.0,
+      "y": -1.13233,
+      "z": -0.38292
+    },
+    "minLift": 0,
+    "maxLift": 1,
+    "loadedMaxLift": 0.688004,
+    "stowLift": 0.8,
+    "liftTravel": 0.872088,
+    "releaseLift": 0.02,
+    "calibrated": true,
+    "fitted": true,
+    "pump": {
+      "x": 0.0,
+      "y": -0.65,
+      "z": 1.17
+    },
+    "liftBarrelLength": 0.98,
+    "liftRodLength": 0.98,
+    "parts": {
+      "lift_barrel": "zs_lift_barrel_long",
+      "lift_rod": "zs_lift_rod_long"
+    },
+    "interactDistance": 6,
+    "maxTargetDistance": 9
+  },
+  "nathanwesv16": {
+    "mount": {
+      "x": 0.0,
+      "y": -1.74987,
+      "z": -0.39588
+    },
+    "minLift": 0,
+    "maxLift": 1,
+    "loadedMaxLift": 0.738754,
+    "stowLift": 0.8,
+    "liftTravel": 0.812178,
+    "releaseLift": 0.02,
+    "calibrated": true,
+    "fitted": true,
+    "pump": {
+      "x": 0.0,
+      "y": -0.65,
+      "z": 1.17
+    },
+    "liftBarrelLength": 0.98,
+    "liftRodLength": 0.98,
+    "parts": {
+      "lift_barrel": "zs_lift_barrel_long",
+      "lift_rod": "zs_lift_rod_long"
+    },
+    "interactDistance": 6,
+    "maxTargetDistance": 9
+  },
+  "nathanwesv18": {
+    "mount": {
+      "x": 0.0,
+      "y": -1.67458,
+      "z": -0.29349
+    },
+    "minLift": 0,
+    "maxLift": 1,
+    "loadedMaxLift": 0.78466,
+    "stowLift": 0.8,
+    "liftTravel": 0.764662,
+    "releaseLift": 0.02,
+    "calibrated": true,
+    "fitted": true,
+    "pump": {
+      "x": 0.0,
+      "y": -0.65,
+      "z": 1.17
+    },
+    "liftBarrelLength": 0.98,
+    "liftRodLength": 0.98,
+    "parts": {
+      "lift_barrel": "zs_lift_barrel_long",
+      "lift_rod": "zs_lift_rod_long"
+    },
+    "interactDistance": 6,
+    "maxTargetDistance": 9
+  },
+  "nathanwesv19": {
+    "mount": {
+      "x": 0.0,
+      "y": -1.98867,
+      "z": -0.45059
+    },
+    "minLift": 0,
+    "maxLift": 1,
+    "loadedMaxLift": 0.746802,
+    "stowLift": 0.8,
+    "liftTravel": 0.803426,
+    "releaseLift": 0.02,
+    "calibrated": true,
+    "fitted": true,
+    "pump": {
+      "x": 0.0,
+      "y": -0.65,
+      "z": 1.17
+    },
+    "liftBarrelLength": 0.98,
+    "liftRodLength": 0.98,
+    "parts": {
+      "lift_barrel": "zs_lift_barrel_long",
+      "lift_rod": "zs_lift_rod_long"
+    },
+    "interactDistance": 6,
+    "maxTargetDistance": 9
+  },
+  "nathanwesv7": {
+    "mount": {
+      "x": 0.0,
+      "y": -2.92315,
+      "z": -0.84041
+    },
+    "minLift": 0,
+    "maxLift": 1,
+    "loadedMaxLift": 0.433658,
+    "stowLift": 0.8,
+    "liftTravel": 1.38358,
+    "releaseLift": 0.02,
+    "calibrated": true,
+    "fitted": true,
+    "pump": {
+      "x": 0.0,
+      "y": -0.65,
+      "z": 1.17
+    },
+    "liftBarrelLength": 0.98,
+    "liftRodLength": 0.98,
+    "parts": {
+      "lift_barrel": "zs_lift_barrel_long",
+      "lift_rod": "zs_lift_rod_long"
+    },
+    "interactDistance": 6.923,
+    "maxTargetDistance": 9.923
+  },
+  "nathanwesv8": {
+    "mount": {
+      "x": 0.0,
+      "y": -1.77219,
+      "z": -0.59566
+    },
+    "minLift": 0,
+    "maxLift": 1,
+    "loadedMaxLift": 0.957197,
+    "stowLift": 0.8,
+    "liftTravel": 0.62683,
+    "releaseLift": 0.02,
+    "calibrated": true,
+    "fitted": true,
+    "pump": {
+      "x": 0.0,
+      "y": -0.65,
+      "z": 1.17
+    },
+    "interactDistance": 6,
+    "maxTargetDistance": 9
+  },
+  "nathanwide23": {
+    "mount": {
+      "x": 0.0,
+      "y": -2.20243,
+      "z": -0.67227
+    },
+    "minLift": 0,
+    "maxLift": 1,
+    "loadedMaxLift": 1.0,
+    "stowLift": 0.662033,
+    "liftTravel": 0.6,
+    "releaseLift": 0.02,
+    "calibrated": true,
+    "fitted": true,
+    "pump": {
+      "x": 0.0,
+      "y": -0.65,
+      "z": 1.17
+    },
+    "interactDistance": 6.202,
+    "maxTargetDistance": 9.202
+  },
+  "nathanz71": {
+    "mount": {
+      "x": 0.0,
+      "y": -2.48573,
+      "z": -0.84452
+    },
+    "minLift": 0,
+    "maxLift": 1,
+    "loadedMaxLift": 0.750276,
+    "stowLift": 0.8,
+    "liftTravel": 0.799706,
+    "releaseLift": 0.02,
+    "calibrated": true,
+    "fitted": true,
+    "pump": {
+      "x": 0.0,
+      "y": -0.65,
+      "z": 1.17
+    },
+    "liftBarrelLength": 0.98,
+    "liftRodLength": 0.98,
+    "parts": {
+      "lift_barrel": "zs_lift_barrel_long",
+      "lift_rod": "zs_lift_rod_long"
+    },
+    "interactDistance": 6.486,
+    "maxTargetDistance": 9.486
+  },
+  "nathanzachv3": {
+    "mount": {
+      "x": 0.0,
+      "y": -1.43247,
+      "z": -0.54491
+    },
+    "minLift": 0,
+    "maxLift": 1,
+    "loadedMaxLift": 0.535391,
+    "stowLift": 0.8,
+    "liftTravel": 1.120677,
+    "releaseLift": 0.02,
+    "calibrated": true,
+    "fitted": true,
+    "pump": {
+      "x": 0.0,
+      "y": -0.65,
+      "z": 1.17
+    },
+    "liftBarrelLength": 0.98,
+    "liftRodLength": 0.98,
+    "parts": {
+      "lift_barrel": "zs_lift_barrel_long",
+      "lift_rod": "zs_lift_rod_long"
+    },
+    "interactDistance": 6,
+    "maxTargetDistance": 9
+  },
+  "nathanzachv4": {
+    "mount": {
+      "x": 0.0,
+      "y": -1.8391,
+      "z": -0.34813
+    },
+    "minLift": 0,
+    "maxLift": 1,
+    "loadedMaxLift": 0.610512,
+    "stowLift": 0.8,
+    "liftTravel": 0.982782,
+    "releaseLift": 0.02,
+    "calibrated": true,
+    "fitted": true,
+    "pump": {
+      "x": 0.0,
+      "y": -0.65,
+      "z": 1.17
+    },
+    "liftBarrelLength": 0.98,
+    "liftRodLength": 0.98,
+    "parts": {
+      "lift_barrel": "zs_lift_barrel_long",
+      "lift_rod": "zs_lift_rod_long"
+    },
+    "interactDistance": 6,
+    "maxTargetDistance": 9
+  },
+  "ninjawes": {
+    "mount": {
+      "x": 0.0,
+      "y": -2.51828,
+      "z": -0.891
+    },
+    "minLift": 0,
+    "maxLift": 1,
+    "loadedMaxLift": 0.727535,
+    "stowLift": 0.8,
+    "liftTravel": 0.824703,
+    "releaseLift": 0.02,
+    "calibrated": true,
+    "fitted": true,
+    "pump": {
+      "x": 0.0,
+      "y": -0.65,
+      "z": 1.17
+    },
+    "liftBarrelLength": 0.98,
+    "liftRodLength": 0.98,
+    "parts": {
+      "lift_barrel": "zs_lift_barrel_long",
+      "lift_rod": "zs_lift_rod_long"
+    },
+    "interactDistance": 6.518,
+    "maxTargetDistance": 9.518
+  },
+  "wes5thg": {
+    "mount": {
+      "x": 0.0,
+      "y": -2.09368,
+      "z": -0.91197
+    },
+    "minLift": 0,
+    "maxLift": 1,
+    "loadedMaxLift": 0.929063,
+    "stowLift": 0.8,
+    "liftTravel": 0.645812,
+    "releaseLift": 0.02,
+    "calibrated": true,
+    "fitted": true,
+    "pump": {
+      "x": 0.0,
+      "y": -0.65,
+      "z": 1.17
+    },
+    "interactDistance": 6.094,
+    "maxTargetDistance": 9.094
+  },
+  "wes": {
+    "mount": {
+      "x": 0.0,
+      "y": -1.73062,
+      "z": -0.51871
+    },
+    "minLift": 0,
+    "maxLift": 1,
+    "loadedMaxLift": 0.784469,
+    "stowLift": 0.8,
+    "liftTravel": 0.764849,
+    "releaseLift": 0.02,
+    "calibrated": true,
+    "fitted": true,
+    "pump": {
+      "x": 0.0,
+      "y": -0.65,
+      "z": 1.17
+    },
+    "liftBarrelLength": 0.98,
+    "liftRodLength": 0.98,
+    "parts": {
+      "lift_barrel": "zs_lift_barrel_long",
+      "lift_rod": "zs_lift_rod_long"
+    },
+    "interactDistance": 6,
+    "maxTargetDistance": 9
+  }
+}

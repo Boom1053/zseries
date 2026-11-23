@@ -1,4 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=Boom1053)
+![Z-Series Views](https://hits.dwyl.com/Boom1053/zseries.svg)
 
 I OFFER NO SUPPORT FOR THIS AS IM TO BUSY DEALING WITH CHILDISH MFS STEALING MY SHIT.
 

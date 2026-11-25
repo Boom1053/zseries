@@ -217,8 +217,7 @@ local function nearestTruck(preferRig)
                 if hash==joaat(name) then configured=true;break end
             end
         end
-        local class=Config.Placement.AllowUnlisted and GetVehicleClass(v)
-        if configured or (class==2 or class==9 or class==10 or class==11 or class==12) then
+        if configured or Config.Placement.AllowUnlisted then
             local d=#(GetEntityCoords(ped)-GetEntityCoords(v))
             local rank=preferRig~=false and rigs[NetworkGetNetworkIdFromEntity(v)] and 0 or 1
             if d<interactRange(v) and (rank<priority or (rank==priority and (best==0 or d<dist))) then best,dist,priority=v,d,rank end

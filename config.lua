@@ -2,6 +2,9 @@ Config = {}
 Config.Geometry = json.decode(LoadResourceFile(GetCurrentResourceName(), 'geometry.json'))
 Config.Ace = 'zseries.use'
 Config.ControlJob = 'wreckamended'
+Config.Framework = 'auto' -- auto, esx, qbcore, qbx, or ndcore; ACE also works standalone
+Config.MechanicJob = 'mechanic'
+Config.MechanicJobType = 'mechanic'
 Config.LeafSprings = {
     Item = 'zseries_leaf_springs',
     Distance = 4.0,
@@ -44,9 +47,9 @@ Config.Profiles = {
     -- Fitted against supplied body/chassis geometry; verify suspension clearance in game.
     nathan22nali = { mount = { x=0.0, y=-2.25, z=-0.82 }, pump={x=0.0,y=-0.05,z=1.17}, minLift=0.0, maxLift=0.50, stowLift=0.5, releaseLift=0.02, calibrated=false }
 }
--- Other automobiles can be fitted through the placement preview. The Ford
+-- Unlisted vehicles can be fitted through the placement preview. The Ford
 -- retains its exact configured one-step installation and hydraulic profile.
-Config.Placement = {AllowUnlisted=false} -- skip cars/non-trucks outside fitted profiles
+Config.Placement = {AllowUnlisted=true} -- allow fitting the boom to any vehicle model
 Config.Profiles.zseries_custom = {mount={x=0,y=-2.35,z=-.14},minLift=0,maxLift=.65,loadedMaxLift=.90,releaseLift=.02}
 Config.Parts = {
     'frame', 'main', 'mid', 'tip', 'crossbar',

@@ -77,13 +77,40 @@ local function profileFor(e)
     else
         for name,p in pairs(Config.Profiles) do if GetHashKey(name)==hash then return name,p end end
     end
-    if Config.Placement.AllowUnlisted and GetVehicleType(e)=='automobile' then return 'zseries_custom',Config.Profiles.zseries_custom end
+    if Config.Placement.AllowUnlisted and GetEntityType(e)==2 then return 'zseries_custom',Config.Profiles.zseries_custom end
+end
+local function frameworkJob(src)
+    local framework=Config.Framework or 'auto'
+    if (framework=='auto' or framework=='ndcore') and GetResourceState('ND_Core')=='started' then
+        local player=exports['ND_Core']:getPlayer(src)
+        if player then
+            if type(player.job)=='string' then return {name=player.job} end
+            if type(player.job)=='table' then return player.job end
+        end
+        if framework=='ndcore' then return end
+    end
+    if (framework=='auto' or framework=='qbx') and GetResourceState('qbx_core')=='started' then
+        local player=exports.qbx_core:GetPlayer(src)
+        return player and player.PlayerData and player.PlayerData.job
+    end
+    if (framework=='auto' or framework=='qbcore') and GetResourceState('qb-core')=='started' then
+        local core=exports['qb-core']:GetCoreObject()
+        local player=core and core.Functions and core.Functions.GetPlayer(src)
+        return player and player.PlayerData and player.PlayerData.job
+    end
+    if (framework=='auto' or framework=='esx') and GetResourceState('es_extended')=='started' then
+        local ok,esx=pcall(function() return exports['es_extended']:getSharedObject() end)
+        if not ok or not esx then
+            TriggerEvent('esx:getSharedObject',function(object) esx=object end)
+        end
+        local player=esx and esx.GetPlayerFromId and esx.GetPlayerFromId(src)
+        return player and player.job
+    end
 end
 local function hasControlAccess(src)
     if IsPlayerAceAllowed(src,Config.Ace) then return true end
-    if not Config.ControlJob or GetResourceState('qbx_core')~='started' then return false end
-    local player=exports.qbx_core:GetPlayer(src)
-    local job=player and player.PlayerData.job
+    if not Config.ControlJob then return false end
+    local job=frameworkJob(src)
     return job~=nil and job.name==Config.ControlJob
 end
 local function permitted(src,e)
@@ -192,9 +219,11 @@ RegisterNetEvent('zseries:sync',function()
 end)
 RegisterNetEvent('zseries:installLeafSprings',function(id,slot)
     local src=source
-    local player=GetResourceState('qbx_core')=='started' and exports.qbx_core:GetPlayer(src)
-    local job=player and player.PlayerData.job
-    if not job or job.type~='mechanic' then return notify(src,'Only mechanics can install leaf springs.') end
+    local job=frameworkJob(src)
+    local mechanicJob=Config.MechanicJob or 'mechanic'
+    if not job or (job.name~=mechanicJob and job.type~=(Config.MechanicJobType or mechanicJob)) then
+        return notify(src,'Only mechanics can install leaf springs.')
+    end
 
     local truck=resolve(id)
     local rig=rigs[id]
@@ -219,10 +248,6 @@ RegisterNetEvent('zseries:installLeafSprings',function(id,slot)
     publish()
     notify(src,'Leaf springs installed.')
 end)
-local boomRestrictedModels={
-    [GetHashKey('nathanhctow')%4294967296]=true,
-    [GetHashKey('nathansteelyard')%4294967296]=true,
-}
 RegisterNetEvent('zseries:action',function(id,action,data)
     local src=source
     local now=GetGameTimer()
@@ -232,9 +257,6 @@ RegisterNetEvent('zseries:action',function(id,action,data)
     if truck==0 then return end
     local ok,why=permitted(src,truck)
     if not ok then return notify(src,why) end
-    if (action=='install' or action=='place') and boomRestrictedModels[GetEntityModel(truck)%4294967296] then
-        return notify(src,'This truck cannot be fitted with a Z-Series boom.')
-    end
     local profileName,profile=profileFor(truck)
     if not profile then return notify(src,'Truck model has no Config.Profiles entry.') end
     local r=rigs[id]

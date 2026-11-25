@@ -1,5 +1,7 @@
 # Z-Series Wheel Lift
 
+![Z-Series Views](https://hits.dwyl.com/Boom1053/zseries.svg)
+
 A FiveM wheel-lift resource with animated Z-Series equipment, vehicle pickup and
 release, optional reusable wheel straps, and optional mechanic-installed leaf
 springs. Includes example carrier fits and support for calibrating additional

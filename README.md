@@ -14,19 +14,24 @@ vehicles.
 - Placement preview for fitting the lift to unlisted carrier vehicles.
 - Optional reusable straps for the lifted wheels.
 - Optional leaf-spring handling upgrade for fitted carriers.
-- ESX, QBCore, QBX, and ND_CORE job checks, plus ACE permissions.
+- ESX, QBCore, QBX, ND_CORE, and Pulsar Framework job checks, plus ACE
+  permissions.
 
 ## Requirements
 
 - FiveM server with OneSync enabled.
 - `ox_lib`.
-- `ox_inventory` for the supplied strap and leaf-spring item flows.
-- ESX, QBCore, QBX, or ND_CORE only if you want framework job-based
-  permissions. ACE permissions can be used without a framework.
+- `ox_inventory` (including Pulsar's compatible ox_inventory fork) for the
+  supplied strap and leaf-spring item flows.
+- ESX, QBCore, QBX, ND_CORE, or Pulsar Framework only if you want framework
+  job-based permissions. ACE permissions can be used without a framework.
 
-`ox_lib` and `ox_inventory` are required by the resource manifest. ESX,
-QBCore, QBX, and ND_CORE are optional; they provide job lookup, not inventory
-implementations. The supplied item-use exports are designed for ox_inventory.
+`ox_lib` and `ox_inventory` are required by the resource manifest. Pulsar's
+ox_inventory fork keeps the `ox_inventory` resource name and ox-compatible item
+APIs used here. On Pulsar, follow its setup instructions and set
+`setr inventory:framework "pulsar"`. ESX, QBCore, QBX, ND_CORE, and Pulsar
+Framework are optional job integrations; Pulsar job checks use `pulsar_core`
+and `pulsar_jobs`.
 
 ## Installation
 
@@ -44,6 +49,17 @@ implementations. The supplied item-use exports are designed for ox_inventory.
 
    ```cfg
    ensure ox_lib
+   ensure ox_inventory
+   ensure zseries
+   ```
+
+   For Pulsar job permissions, start its framework resources before Z-Series:
+
+   ```cfg
+   setr inventory:framework "pulsar"
+   ensure ox_lib
+   ensure pulsar_core
+   ensure pulsar_jobs
    ensure ox_inventory
    ensure zseries
    ```
@@ -95,14 +111,17 @@ Edit these values near the top of `config.lua`:
 ```lua
 Config.Ace = 'zseries.use'
 Config.ControlJob = 'wreckamended'
-Config.Framework = 'auto' -- auto, esx, qbcore, qbx, or ndcore
+Config.Framework = 'auto' -- auto, esx, qbcore, qbx, ndcore, or pulsar
 Config.MechanicJob = 'mechanic'
 Config.MechanicJobType = 'mechanic'
 ```
 
-- `Config.Framework = 'auto'` checks started ND_CORE, QBX, QBCore, and ESX
-  resources. Set `ndcore`, `esx`, `qbcore`, or `qbx` to select one explicitly.
+- `Config.Framework = 'auto'` checks started Pulsar, ND_CORE, QBX, QBCore, and
+  ESX resources. Pulsar requires both `pulsar_core` and `pulsar_jobs`; start
+  those before `zseries`. Set `pulsar`, `ndcore`, `esx`, `qbcore`, or `qbx` to
+  select one explicitly.
 - `Config.ControlJob` is the job allowed to operate and fit the boom.
+  For Pulsar, this must be the job ID used by `pulsar_jobs`.
 - `Config.MechanicJob` / `Config.MechanicJobType` control leaf-spring
   installation.
 - ACE permission can be granted in `server.cfg`, for example:

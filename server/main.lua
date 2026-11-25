@@ -107,11 +107,35 @@ local function frameworkJob(src)
         return player and player.job
     end
 end
+local function pulsarHasJob(src,jobName)
+    if GetResourceState('pulsar_core')~='started' or GetResourceState('pulsar_jobs')~='started' then return nil end
+    local core=exports.pulsar_core
+    if not core:HasComponent('Jobs') then return nil end
+    local jobs=core:FetchComponent('Jobs')
+    local permissions=jobs and jobs.Permissions
+    if not permissions or type(permissions.HasJob)~='function' then
+        print('[zseries] Pulsar Jobs component is missing Permissions:HasJob.')
+        return false
+    end
+    local result=permissions:HasJob(src,jobName)
+    return result~=nil and result~=false
+end
+local function hasFrameworkJob(src,jobName,jobType)
+    local framework=Config.Framework or 'auto'
+    if framework=='pulsar' or (framework=='auto'
+        and GetResourceState('pulsar_core')=='started'
+        and GetResourceState('pulsar_jobs')=='started') then
+        local hasJob=pulsarHasJob(src,jobName)
+        if hasJob~=nil then return hasJob end
+        if framework=='pulsar' then return false end
+    end
+    local job=frameworkJob(src)
+    return job~=nil and (job.name==jobName or (jobType and job.type==jobType)) or false
+end
 local function hasControlAccess(src)
     if IsPlayerAceAllowed(src,Config.Ace) then return true end
     if not Config.ControlJob then return false end
-    local job=frameworkJob(src)
-    return job~=nil and job.name==Config.ControlJob
+    return hasFrameworkJob(src,Config.ControlJob)
 end
 local function permitted(src,e)
     if not hasControlAccess(src) then return false,'No tow permission.' end
@@ -219,9 +243,8 @@ RegisterNetEvent('zseries:sync',function()
 end)
 RegisterNetEvent('zseries:installLeafSprings',function(id,slot)
     local src=source
-    local job=frameworkJob(src)
     local mechanicJob=Config.MechanicJob or 'mechanic'
-    if not job or (job.name~=mechanicJob and job.type~=(Config.MechanicJobType or mechanicJob)) then
+    if not hasFrameworkJob(src,mechanicJob,Config.MechanicJobType or mechanicJob) then
         return notify(src,'Only mechanics can install leaf springs.')
     end
 
